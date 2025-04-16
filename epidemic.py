@@ -27,7 +27,7 @@ class Epidemic:
         self._death_count: int = int(death_count)
 
 
-def handle_csv_data(file_name: str) -> Epidemic:
+def handle_csv_data(file_name: str) -> None:
     """
     Description:
         ...
