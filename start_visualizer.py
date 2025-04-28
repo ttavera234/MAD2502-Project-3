@@ -7,8 +7,7 @@ def main() -> None:
             Main function where our application will run from. Runs in an infinite loop until user commands it to "Stop"
     """
 
-    while True:
-        query_data()
+    query_data()
 
 
 if __name__ == "__main__":

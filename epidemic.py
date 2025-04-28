@@ -19,119 +19,142 @@ def query_data() -> None:
             Queries the user for data, and then filters the dataset based on this data.
             After filtering, it then loads the data into the Epidemic Data Structure and visualizes it using a histogram.
     """
+
     print("Welcome to the Epidemic Data Analyzer!")
     print("To end the program at any time, type 'Stop'.")
 
-    While True: 
+    while True:
         # Handling user input -> https://www.geeksforgeeks.org/taking-multiple-inputs-from-user-in-python/
-        time_range: list[str] = input(
-            "Enter the range of years you wish to study in the following format 'YYYY-YYYY': ").split("-")
-    
-        if time_range_input.lower() == "stop":
-            print("Program stopped by user.")
-            return
-    
-        #Verify that the time range is between [2020, 2023]
-        if len(time_range) != 2 or not all(year.isdigit() for year in time_range) or not (2020 <= int(time_range[0]) <= 2023) or not (2020 <= int(time_range[1]) <= 2023):
-            print("Invalid time range. Please enter years between 2020 and 2023.")
-            return
-    
+        while True:
+            time_range: list[str] = input(
+                "Enter the range of years you wish to study in the following format 'YYYY-YYYY': ").split("-")
+
+            if time_range[0].lower() == "stop":
+                print("Program stopped by user.")
+                return
+            elif time_range[1].lower() == "stop":
+                print("Program stopped by user.")
+                return
+
+            #Verify that the time range is between [2020, 2023]
+            if len(time_range) != 2 or not all(year.isdigit() for year in time_range) or not (2020 <= int(time_range[0]) <= 2023) or not (2020 <= int(time_range[1]) <= 2023):
+                print("Invalid time range. Please enter years between 2020 and 2023.")
+                continue
+
+            break
+
         valid_epidemics = ["COVID-19", "Influenza", "Pneumonia"]
-        
-        epidemic: str = input(
-            "Enter the epidemic you wish to study, your options are: COVID-19, Influenza, or Pneumonia: ")
-    
-        if epidemic_input.lower() == "stop":
-            print("Program stopped by user.")
-            return
-    
-        if epidemic.lower() not in valid_epidemics:
-            print("Invalid epidemic. Please choose from COVID-19, Influenza, or Pneumonia.")
-            return
-    
-        graph_decision: str = input(
-            "Enter 'N' if you wish to study a national graph and 'S' if you wish to study a state graph: ")
-    
-        #Verify that the graph decision input is either "N" or "S"
-        if graph_decision.upper() not in ["N", "S"]:
-            print("Invalid choice. Enter 'N' or 'S'.")
-            return
-    
+        valid_states: list[str] = ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut",
+                                   "Delaware",
+                                   "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas",
+                                   "Kentucky",
+                                   "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota",
+                                   "Mississippi",
+                                   "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey",
+                                   "New Mexico",
+                                   "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon",
+                                   "Pennsylvania",
+                                   "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah",
+                                   "Vermont",
+                                   "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"
+                                   ]
+        valid_age_groups: list[str] = "0-17 years, 18-29 years, 30-39 years, 40-49 years, 50-64 years, 65-74 years, 75-84 years, 85 years and over".split(", ")
+
+        while True:
+            epidemic: str = input(
+                "Enter the epidemic you wish to study, your options are: COVID-19, Influenza, or Pneumonia: ")
+
+            if epidemic.lower() == "stop":
+                print("Program stopped by user.")
+                return
+
+            if epidemic not in valid_epidemics:
+                print("Invalid epidemic. Please choose from COVID-19, Influenza, or Pneumonia.")
+                continue
+
+            break
+
+        while True:
+            graph_decision: str = input(
+                "Enter 'N' if you wish to study a national graph and 'S' if you wish to study a state graph: ")
+
+            # Verify that the graph decision input is either "N" or "S"
+            if graph_decision.lower() == "stop":
+                print("Program stopped by user.")
+                return
+
+            if graph_decision.upper() not in ["N", "S"]:
+                print("Invalid choice. Enter 'N' or 'S'.")
+                continue
+
+            break
+
         if graph_decision == 'N':
-            state_list: list[str] = input(
-                "Enter two or more states you wish to study in the following comma-separated format 'California, Florida': ").split(", ")
-    
-        if graph_decision.lower() == "stop":
-            print("Program stopped by user.")
-            return
-    
-            # TODO: Verify that the states inputted are valid/exist in the "N_data.csv" data set
-            valid_states = [
-                "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware",
-        "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky",
-        "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi",
-        "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico",
-        "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania",
-        "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont",
-        "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"
-            ]
-    
-            for state in state_list:
-                if state.strip().title() not in valid_states:
-                    print(f"Invalid state entered: {state}")
-                    return
-    
+            while True:
+                state_list: list[str] = input(
+                    "Enter two or more states you wish to study in the following comma-separated format 'California, Florida': ").split(", ")
+
+                for state in state_list:
+                    if state.strip().title() not in valid_states:
+                        print(f"Invalid state entered: {state}")
+                        continue
+
+                break
+
             load_data_into_structure(file_type="N", time_range=time_range, epidemic=epidemic, state_list=state_list)
         else:
-            state: str = input(
-                "Enter the state you wish to study in the following format 'Florida' : ")
+            while True:
+                state: str = input(
+                    "Enter the state you wish to study in the following format 'Florida' : ")
 
-            if state_input.lower() == "stop":
-                print("Program stopped by user.")
+                if state.lower() == "stop":
+                    print("Program stopped by user.")
+                    return
+
+                if state.strip().title() not in valid_states:
+                    print(f"Invalid state entered: {state}")
+                    continue
+
                 break
-    
-            # TODO: Verify that the state inputted is valid/exist in either the "SA_data.csv" or "SG_data.csv" data sets
-            valid_states = [  # Same valid states list
-                "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut",
-        "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa",
-        "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan",
-        "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire",
-        "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio",
-        "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota",
-        "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia",
-        "Wisconsin", "Wyoming"
-            ]
-    
-             if state.strip().title() not in valid_states:
-                print(f"Invalid state entered: {state}")
-                return
-    
-            group_decision: str = input(
-                "Enter 'G' if you wish to focus on gender or 'A' if you wish to focus on a specified age group: ")
-    
-            if group_decision.lower() == "stop":
-                print("Program stopped by user.")
-                return
-    
-            #Verify that the group decision input is either "G" or "A"
-    
-            if group_decision.upper() not in ["G", "A"]:
-                print("Invalid choice. Enter 'G' or 'A'.")
-                return
-            
+
+            while True:
+                group_decision: str = input(
+                    "Enter 'G' if you wish to focus on gender or 'A' if you wish to focus on a specified age group: ")
+
+                if group_decision.lower() == "stop":
+                    print("Program stopped by user.")
+                    return
+
+                #Verify that the group decision input is either "G" or "A"
+
+                if group_decision.upper() not in ["G", "A"]:
+                    print("Invalid choice. Enter 'G' or 'A'.")
+                    continue
+
+                break
+
             if group_decision == 'A':
-                age_groups: list[str] = input(
-                    "Enter the age groups you wish to study in the following comma-separated format: 0-17 years, 18-29 years, "
-                                                                                                    "30-39 years, 40-49 years, "
-                                                                                                    "50-64 years, 65-74 years, "
-                                                                                                    "75-84 years, or 85 years and over: ").split(", ")
-    
-                #Verify that the age groups inputted are valid/exist in the "SA_data.csv" data set
-                for age_group in age_groups:
-                    if age_group.strip() not in valid_age_groups:
-                        print(f"Invalid age group entered: {age_group}")
-                        return
-    
+                while True:
+                    age_groups: list[str] = input(
+                        "Enter the age groups you wish to study in the following comma-separated format: 0-17 years, 18-29 years, "
+                                                                                                        "30-39 years, 40-49 years, "
+                                                                                                        "50-64 years, 65-74 years, "
+                                                                                                        "75-84 years, or 85 years and over: ").split(", ")
+
+                    # Verify that the age groups inputted are valid/exist in the "SA_data.csv" data set
+                    invalid_group: bool = False
+                    for age_group in age_groups:
+                        if age_group.lower() == "stop":
+                            print("Program stopped by user.")
+                            return
+                        if age_group.strip() not in valid_age_groups:
+                            print(f"Invalid age group entered: {age_group}")
+                            invalid_group = True
+                            break
+                    if invalid_group:
+                        continue
+                    break
+
                 load_data_into_structure(file_type="SA", time_range=time_range, epidemic=epidemic, state_list=[state], age_groups=age_groups)
             else:
                 load_data_into_structure(file_type="SG", time_range=time_range, epidemic=epidemic, state_list=[state])
