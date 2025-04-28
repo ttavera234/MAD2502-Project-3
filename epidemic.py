@@ -11,7 +11,15 @@ class EpidemicData:
     states: list[str]
     age_groups: list[str]
     sexes: list[str]
-
+    
+def main(): 
+    print("Welcome to the Epidemic Data Analyzer!")
+    while True: 
+        print("\nTo end the program, type 'stop' at any time.\n")
+        user_input = input("Press Enter to continue or type 'stop' to exit:
+        if user_input.strip().lower() == 'stop':
+            break
+        query_data()
 
 def query_data() -> None:
     """
