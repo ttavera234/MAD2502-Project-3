@@ -1,0 +1,1601 @@
+Year,State,Age Group,COVID-19 Deaths,Pneumonia Deaths,Influenza Deaths
+2020,Alabama,0-17 years,1-9,11,
+2020,Alabama,18-29 years,25,25,1-9
+2020,Alabama,30-39 years,78,83,1-9
+2020,Alabama,40-49 years,222,160,1-9
+2020,Alabama,50-64 years,1135,927,47
+2020,Alabama,65-74 years,1669,1313,40
+2020,Alabama,75-84 years,1900,1509,23
+2020,Alabama,85 years and over,1675,1185,12
+2021,Alabama,0-17 years,1-9,12,0
+2021,Alabama,18-29 years,87,57,1-9
+2021,Alabama,30-39 years,273,151,1-9
+2021,Alabama,40-49 years,685,374,1-9
+2021,Alabama,50-64 years,2481,1461,16
+2021,Alabama,65-74 years,2548,1707,1-9
+2021,Alabama,75-84 years,2254,1566,1-9
+2021,Alabama,85 years and over,1382,1028,1-9
+2022,Alabama,0-17 years,1-9,15,
+2022,Alabama,18-29 years,27,23,1-9
+2022,Alabama,30-39 years,56,56,1-9
+2022,Alabama,40-49 years,127,134,1-9
+2022,Alabama,50-64 years,843,709,24
+2022,Alabama,65-74 years,1068,1029,26
+2022,Alabama,75-84 years,1193,1186,39
+2022,Alabama,85 years and over,905,783,26
+2023,Alabama,0-17 years,1-9,,0
+2023,Alabama,18-29 years,1-9,17,0
+2023,Alabama,30-39 years,1-9,29,0
+2023,Alabama,40-49 years,19,80,1-9
+2023,Alabama,50-64 years,104,343,1-9
+2023,Alabama,65-74 years,196,536,12
+2023,Alabama,75-84 years,283,653,15
+2023,Alabama,85 years and over,254,450,14
+2020,Alaska,0-17 years,0,1-9,
+2020,Alaska,18-29 years,1-9,,
+2020,Alaska,30-39 years,1-9,12,0
+2020,Alaska,40-49 years,11,19,0
+2020,Alaska,50-64 years,37,54,1-9
+2020,Alaska,65-74 years,66,70,1-9
+2020,Alaska,75-84 years,73,79,1-9
+2020,Alaska,85 years and over,59,71,1-9
+2021,Alaska,0-17 years,1-9,,0
+2021,Alaska,18-29 years,13,10,0
+2021,Alaska,30-39 years,36,31,0
+2021,Alaska,40-49 years,64,45,0
+2021,Alaska,50-64 years,226,162,1-9
+2021,Alaska,65-74 years,219,184,0
+2021,Alaska,75-84 years,175,153,0
+2021,Alaska,85 years and over,104,78,0
+2022,Alaska,0-17 years,1-9,,0
+2022,Alaska,18-29 years,1-9,,0
+2022,Alaska,30-39 years,1-9,13,
+2022,Alaska,40-49 years,17,22,1-9
+2022,Alaska,50-64 years,52,74,1-9
+2022,Alaska,65-74 years,95,86,1-9
+2022,Alaska,75-84 years,83,87,1-9
+2022,Alaska,85 years and over,66,53,1-9
+2023,Alaska,0-17 years,0,0,0
+2023,Alaska,18-29 years,0,1-9,0
+2023,Alaska,30-39 years,1-9,,
+2023,Alaska,40-49 years,1-9,12,0
+2023,Alaska,50-64 years,1-9,27,0
+2023,Alaska,65-74 years,1-9,45,
+2023,Alaska,75-84 years,30,41,0
+2023,Alaska,85 years and over,20,34,1-9
+2020,Arizona,0-17 years,1-9,18,
+2020,Arizona,18-29 years,73,68,1-9
+2020,Arizona,30-39 years,195,154,1-9
+2020,Arizona,40-49 years,402,329,11
+2020,Arizona,50-64 years,1707,1652,37
+2020,Arizona,65-74 years,2143,2204,38
+2020,Arizona,75-84 years,2580,2633,29
+2020,Arizona,85 years and over,2213,2154,21
+2021,Arizona,0-17 years,22,32,0
+2021,Arizona,18-29 years,155,108,0
+2021,Arizona,30-39 years,424,325,0
+2021,Arizona,40-49 years,845,663,1-9
+2021,Arizona,50-64 years,3165,2604,1-9
+2021,Arizona,65-74 years,3557,3058,1-9
+2021,Arizona,75-84 years,3593,3126,1-9
+2021,Arizona,85 years and over,2299,2053,1-9
+2022,Arizona,0-17 years,15,25,1-9
+2022,Arizona,18-29 years,49,48,1-9
+2022,Arizona,30-39 years,115,140,1-9
+2022,Arizona,40-49 years,220,249,1-9
+2022,Arizona,50-64 years,924,1062,34
+2022,Arizona,65-74 years,1409,1559,28
+2022,Arizona,75-84 years,1723,1845,33
+2022,Arizona,85 years and over,1451,1445,26
+2023,Arizona,0-17 years,1-9,19,
+2023,Arizona,18-29 years,1-9,24,0
+2023,Arizona,30-39 years,1-9,68,
+2023,Arizona,40-49 years,17,87,1-9
+2023,Arizona,50-64 years,102,438,11
+2023,Arizona,65-74 years,191,643,11
+2023,Arizona,75-84 years,327,853,13
+2023,Arizona,85 years and over,371,642,16
+2020,Arkansas,0-17 years,1-9,,
+2020,Arkansas,18-29 years,12,18,1-9
+2020,Arkansas,30-39 years,40,39,1-9
+2020,Arkansas,40-49 years,120,130,1-9
+2020,Arkansas,50-64 years,546,638,30
+2020,Arkansas,65-74 years,830,892,27
+2020,Arkansas,75-84 years,1190,1146,17
+2020,Arkansas,85 years and over,1288,1030,17
+2021,Arkansas,0-17 years,1-9,,0
+2021,Arkansas,18-29 years,57,49,0
+2021,Arkansas,30-39 years,148,102,1-9
+2021,Arkansas,40-49 years,326,251,0
+2021,Arkansas,50-64 years,1258,1033,1-9
+2021,Arkansas,65-74 years,1379,1233,1-9
+2021,Arkansas,75-84 years,1277,1228,1-9
+2021,Arkansas,85 years and over,884,883,0
+2022,Arkansas,0-17 years,11,21,1-9
+2022,Arkansas,18-29 years,19,14,1-9
+2022,Arkansas,30-39 years,47,46,1-9
+2022,Arkansas,40-49 years,101,107,11
+2022,Arkansas,50-64 years,439,515,35
+2022,Arkansas,65-74 years,672,805,29
+2022,Arkansas,75-84 years,845,940,26
+2022,Arkansas,85 years and over,639,712,33
+2023,Arkansas,0-17 years,1-9,,0
+2023,Arkansas,18-29 years,1-9,,0
+2023,Arkansas,30-39 years,1-9,17,0
+2023,Arkansas,40-49 years,1-9,37,
+2023,Arkansas,50-64 years,66,265,1-9
+2023,Arkansas,65-74 years,99,358,1-9
+2023,Arkansas,75-84 years,186,502,1-9
+2023,Arkansas,85 years and over,161,409,1-9
+2020,California,0-17 years,18,71,19
+2020,California,18-29 years,205,229,20
+2020,California,30-39 years,612,536,40
+2020,California,40-49 years,1508,1403,54
+2020,California,50-64 years,6377,6424,198
+2020,California,65-74 years,7287,8087,161
+2020,California,75-84 years,8236,9525,164
+2020,California,85 years and over,9335,10759,163
+2021,California,0-17 years,46,67,1-9
+2021,California,18-29 years,423,349,0
+2021,California,30-39 years,1318,1055,1-9
+2021,California,40-49 years,2933,2338,1-9
+2021,California,50-64 years,11477,9940,10
+2021,California,65-74 years,11235,10770,14
+2021,California,75-84 years,10856,11079,16
+2021,California,85 years and over,10042,10291,1-9
+2022,California,0-17 years,82,82,15
+2022,California,18-29 years,177,180,14
+2022,California,30-39 years,387,435,27
+2022,California,40-49 years,883,898,30
+2022,California,50-64 years,3627,4340,113
+2022,California,65-74 years,4600,6079,114
+2022,California,75-84 years,5586,7444,161
+2022,California,85 years and over,7084,8303,197
+2023,California,0-17 years,10,47,1-9
+2023,California,18-29 years,19,86,1-9
+2023,California,30-39 years,57,215,1-9
+2023,California,40-49 years,97,382,1-9
+2023,California,50-64 years,470,1813,36
+2023,California,65-74 years,852,2987,34
+2023,California,75-84 years,1372,4101,50
+2023,California,85 years and over,2037,4862,67
+2020,Colorado,0-17 years,1-9,,
+2020,Colorado,18-29 years,24,25,1-9
+2020,Colorado,30-39 years,34,85,1-9
+2020,Colorado,40-49 years,132,136,1-9
+2020,Colorado,50-64 years,597,677,44
+2020,Colorado,65-74 years,997,1016,26
+2020,Colorado,75-84 years,1449,1307,12
+2020,Colorado,85 years and over,1833,1338,35
+2021,Colorado,0-17 years,1-9,14,
+2021,Colorado,18-29 years,53,36,1-9
+2021,Colorado,30-39 years,153,110,0
+2021,Colorado,40-49 years,349,277,1-9
+2021,Colorado,50-64 years,1408,1120,1-9
+2021,Colorado,65-74 years,1497,1394,1-9
+2021,Colorado,75-84 years,1452,1345,1-9
+2021,Colorado,85 years and over,1286,1104,1-9
+2022,Colorado,0-17 years,10,18,1-9
+2022,Colorado,18-29 years,26,37,1-9
+2022,Colorado,30-39 years,70,67,1-9
+2022,Colorado,40-49 years,131,137,1-9
+2022,Colorado,50-64 years,524,572,32
+2022,Colorado,65-74 years,751,828,35
+2022,Colorado,75-84 years,883,994,40
+2022,Colorado,85 years and over,1018,930,57
+2023,Colorado,0-17 years,1-9,15,
+2023,Colorado,18-29 years,1-9,12,
+2023,Colorado,30-39 years,10,30,1-9
+2023,Colorado,40-49 years,11,48,1-9
+2023,Colorado,50-64 years,53,218,10
+2023,Colorado,65-74 years,116,369,15
+2023,Colorado,75-84 years,224,495,15
+2023,Colorado,85 years and over,262,452,16
+2020,Connecticut,0-17 years,1-9,,
+2020,Connecticut,18-29 years,1-9,,
+2020,Connecticut,30-39 years,29,14,0
+2020,Connecticut,40-49 years,87,52,1-9
+2020,Connecticut,50-64 years,634,361,19
+2020,Connecticut,65-74 years,1082,630,18
+2020,Connecticut,75-84 years,1654,827,26
+2020,Connecticut,85 years and over,2802,1286,23
+2021,Connecticut,0-17 years,1-9,,0
+2021,Connecticut,18-29 years,15,10,0
+2021,Connecticut,30-39 years,53,34,0
+2021,Connecticut,40-49 years,125,68,0
+2021,Connecticut,50-64 years,540,438,1-9
+2021,Connecticut,65-74 years,601,552,0
+2021,Connecticut,75-84 years,792,766,1-9
+2021,Connecticut,85 years and over,1021,925,1-9
+2022,Connecticut,0-17 years,1-9,,
+2022,Connecticut,18-29 years,10,1-9,
+2022,Connecticut,30-39 years,41,23,1-9
+2022,Connecticut,40-49 years,49,46,1-9
+2022,Connecticut,50-64 years,381,399,1-9
+2022,Connecticut,65-74 years,461,533,15
+2022,Connecticut,75-84 years,658,771,25
+2022,Connecticut,85 years and over,971,1089,29
+2023,Connecticut,0-17 years,0,0,1-9
+2023,Connecticut,18-29 years,1-9,,0
+2023,Connecticut,30-39 years,1-9,13,0
+2023,Connecticut,40-49 years,1-9,21,0
+2023,Connecticut,50-64 years,43,147,1-9
+2023,Connecticut,65-74 years,82,311,1-9
+2023,Connecticut,75-84 years,140,473,1-9
+2023,Connecticut,85 years and over,268,640,15
+2020,Delaware,0-17 years,1-9,,0
+2020,Delaware,18-29 years,1-9,,
+2020,Delaware,30-39 years,12,11,1-9
+2020,Delaware,40-49 years,17,13,1-9
+2020,Delaware,50-64 years,149,149,1-9
+2020,Delaware,65-74 years,219,223,1-9
+2020,Delaware,75-84 years,310,265,1-9
+2020,Delaware,85 years and over,382,247,1-9
+2021,Delaware,0-17 years,1-9,,0
+2021,Delaware,18-29 years,1-9,,0
+2021,Delaware,30-39 years,12,20,0
+2021,Delaware,40-49 years,41,33,0
+2021,Delaware,50-64 years,240,227,0
+2021,Delaware,65-74 years,297,302,0
+2021,Delaware,75-84 years,357,329,0
+2021,Delaware,85 years and over,313,230,1-9
+2022,Delaware,0-17 years,1-9,,
+2022,Delaware,18-29 years,1-9,,
+2022,Delaware,30-39 years,17,13,1-9
+2022,Delaware,40-49 years,30,27,1-9
+2022,Delaware,50-64 years,133,153,1-9
+2022,Delaware,65-74 years,195,250,1-9
+2022,Delaware,75-84 years,260,294,1-9
+2022,Delaware,85 years and over,230,215,1-9
+2023,Delaware,0-17 years,1-9,,
+2023,Delaware,18-29 years,1-9,,0
+2023,Delaware,30-39 years,1-9,,0
+2023,Delaware,40-49 years,1-9,10,0
+2023,Delaware,50-64 years,19,54,1-9
+2023,Delaware,65-74 years,26,88,1-9
+2023,Delaware,75-84 years,82,170,1-9
+2023,Delaware,85 years and over,81,93,1-9
+2020,Florida,0-17 years,1-9,43,11
+2020,Florida,18-29 years,75,127,1-9
+2020,Florida,30-39 years,213,285,23
+2020,Florida,40-49 years,608,679,37
+2020,Florida,50-64 years,3026,3679,103
+2020,Florida,65-74 years,4738,5703,107
+2020,Florida,75-84 years,6510,7472,111
+2020,Florida,85 years and over,6648,7449,86
+2021,Florida,0-17 years,58,70,1-9
+2021,Florida,18-29 years,383,320,0
+2021,Florida,30-39 years,1049,900,0
+2021,Florida,40-49 years,2394,1984,1-9
+2021,Florida,50-64 years,8851,8082,17
+2021,Florida,65-74 years,9015,9099,23
+2021,Florida,75-84 years,9377,10194,17
+2021,Florida,85 years and over,7746,8344,27
+2022,Florida,0-17 years,37,58,1-9
+2022,Florida,18-29 years,67,107,1-9
+2022,Florida,30-39 years,176,254,1-9
+2022,Florida,40-49 years,352,501,10
+2022,Florida,50-64 years,2032,2907,54
+2022,Florida,65-74 years,3348,4717,85
+2022,Florida,75-84 years,5033,6466,116
+2022,Florida,85 years and over,5853,6581,108
+2023,Florida,0-17 years,1-9,35,10
+2023,Florida,18-29 years,1-9,53,
+2023,Florida,30-39 years,26,138,1-9
+2023,Florida,40-49 years,55,244,10
+2023,Florida,50-64 years,286,1355,31
+2023,Florida,65-74 years,730,2391,64
+2023,Florida,75-84 years,1404,3502,103
+2023,Florida,85 years and over,1783,3506,72
+2020,Georgia,0-17 years,1-9,17,
+2020,Georgia,18-29 years,51,55,1-9
+2020,Georgia,30-39 years,141,129,10
+2020,Georgia,40-49 years,397,356,17
+2020,Georgia,50-64 years,1820,1757,50
+2020,Georgia,65-74 years,2619,2426,50
+2020,Georgia,75-84 years,2951,2742,39
+2020,Georgia,85 years and over,2466,2137,23
+2021,Georgia,0-17 years,27,31,1-9
+2021,Georgia,18-29 years,188,131,1-9
+2021,Georgia,30-39 years,539,344,1-9
+2021,Georgia,40-49 years,1146,787,0
+2021,Georgia,50-64 years,4465,3404,10
+2021,Georgia,65-74 years,4316,3580,15
+2021,Georgia,75-84 years,4082,3493,12
+2021,Georgia,85 years and over,2547,2146,1-9
+2022,Georgia,0-17 years,27,30,1-9
+2022,Georgia,18-29 years,52,54,1-9
+2022,Georgia,30-39 years,121,126,1-9
+2022,Georgia,40-49 years,244,245,1-9
+2022,Georgia,50-64 years,1297,1337,39
+2022,Georgia,65-74 years,1819,1864,47
+2022,Georgia,75-84 years,2068,2149,56
+2022,Georgia,85 years and over,1601,1503,40
+2023,Georgia,0-17 years,1-9,14,
+2023,Georgia,18-29 years,1-9,25,0
+2023,Georgia,30-39 years,16,60,1-9
+2023,Georgia,40-49 years,31,104,1-9
+2023,Georgia,50-64 years,191,538,20
+2023,Georgia,65-74 years,313,830,21
+2023,Georgia,75-84 years,479,987,20
+2023,Georgia,85 years and over,460,754,10
+2020,Hawaii,0-17 years,0,1-9,
+2020,Hawaii,18-29 years,1-9,,0
+2020,Hawaii,30-39 years,1-9,,0
+2020,Hawaii,40-49 years,14,20,0
+2020,Hawaii,50-64 years,74,112,1-9
+2020,Hawaii,65-74 years,86,162,1-9
+2020,Hawaii,75-84 years,81,183,1-9
+2020,Hawaii,85 years and over,101,330,1-9
+2021,Hawaii,0-17 years,1-9,,0
+2021,Hawaii,18-29 years,11,1-9,0
+2021,Hawaii,30-39 years,37,29,0
+2021,Hawaii,40-49 years,61,51,0
+2021,Hawaii,50-64 years,200,207,1-9
+2021,Hawaii,65-74 years,199,239,0
+2021,Hawaii,75-84 years,116,230,0
+2021,Hawaii,85 years and over,118,330,0
+2022,Hawaii,0-17 years,1-9,,
+2022,Hawaii,18-29 years,1-9,,0
+2022,Hawaii,30-39 years,1-9,11,
+2022,Hawaii,40-49 years,30,26,1-9
+2022,Hawaii,50-64 years,103,122,1-9
+2022,Hawaii,65-74 years,105,186,1-9
+2022,Hawaii,75-84 years,137,260,1-9
+2022,Hawaii,85 years and over,249,430,1-9
+2023,Hawaii,0-17 years,1-9,,
+2023,Hawaii,18-29 years,0,1-9,0
+2023,Hawaii,30-39 years,1-9,,0
+2023,Hawaii,40-49 years,1-9,19,
+2023,Hawaii,50-64 years,19,62,1-9
+2023,Hawaii,65-74 years,29,118,1-9
+2023,Hawaii,75-84 years,51,181,1-9
+2023,Hawaii,85 years and over,89,273,1-9
+2020,Idaho,0-17 years,0,1-9,0
+2020,Idaho,18-29 years,1-9,,
+2020,Idaho,30-39 years,1-9,,
+2020,Idaho,40-49 years,33,18,1-9
+2020,Idaho,50-64 years,151,172,1-9
+2020,Idaho,65-74 years,332,279,11
+2020,Idaho,75-84 years,466,379,1-9
+2020,Idaho,85 years and over,551,370,1-9
+2021,Idaho,0-17 years,1-9,,0
+2021,Idaho,18-29 years,18,11,0
+2021,Idaho,30-39 years,47,32,0
+2021,Idaho,40-49 years,127,85,0
+2021,Idaho,50-64 years,580,411,1-9
+2021,Idaho,65-74 years,688,578,0
+2021,Idaho,75-84 years,732,609,0
+2021,Idaho,85 years and over,592,437,1-9
+2022,Idaho,0-17 years,1-9,,
+2022,Idaho,18-29 years,1-9,,0
+2022,Idaho,30-39 years,13,18,1-9
+2022,Idaho,40-49 years,30,26,1-9
+2022,Idaho,50-64 years,162,149,1-9
+2022,Idaho,65-74 years,226,218,12
+2022,Idaho,75-84 years,308,335,26
+2022,Idaho,85 years and over,337,306,21
+2023,Idaho,0-17 years,1-9,0,0
+2023,Idaho,18-29 years,0,1-9,0
+2023,Idaho,30-39 years,1-9,,0
+2023,Idaho,40-49 years,1-9,,
+2023,Idaho,50-64 years,11,54,1-9
+2023,Idaho,65-74 years,44,117,1-9
+2023,Idaho,75-84 years,76,153,11
+2023,Idaho,85 years and over,63,160,1-9
+2020,Illinois,0-17 years,1-9,20,
+2020,Illinois,18-29 years,61,61,1-9
+2020,Illinois,30-39 years,197,155,1-9
+2020,Illinois,40-49 years,469,356,1-9
+2020,Illinois,50-64 years,2311,2100,46
+2020,Illinois,65-74 years,3462,3099,34
+2020,Illinois,75-84 years,4427,4061,54
+2020,Illinois,85 years and over,5790,4561,70
+2021,Illinois,0-17 years,18,30,0
+2021,Illinois,18-29 years,93,83,0
+2021,Illinois,30-39 years,275,210,1-9
+2021,Illinois,40-49 years,573,464,0
+2021,Illinois,50-64 years,2360,2222,1-9
+2021,Illinois,65-74 years,2795,2926,1-9
+2021,Illinois,75-84 years,2894,3232,1-9
+2021,Illinois,85 years and over,2779,3039,1-9
+2022,Illinois,0-17 years,16,36,1-9
+2022,Illinois,18-29 years,50,53,1-9
+2022,Illinois,30-39 years,111,119,1-9
+2022,Illinois,40-49 years,295,253,10
+2022,Illinois,50-64 years,1326,1494,45
+2022,Illinois,65-74 years,1802,2136,53
+2022,Illinois,75-84 years,2306,2682,56
+2022,Illinois,85 years and over,2814,2886,88
+2023,Illinois,0-17 years,1-9,26,0
+2023,Illinois,18-29 years,1-9,21,
+2023,Illinois,30-39 years,14,51,1-9
+2023,Illinois,40-49 years,18,80,1-9
+2023,Illinois,50-64 years,142,556,1-9
+2023,Illinois,65-74 years,266,885,14
+2023,Illinois,75-84 years,412,1217,27
+2023,Illinois,85 years and over,634,1320,32
+2020,Indiana,0-17 years,1-9,,
+2020,Indiana,18-29 years,16,26,0
+2020,Indiana,30-39 years,58,65,1-9
+2020,Indiana,40-49 years,167,222,1-9
+2020,Indiana,50-64 years,1080,1320,34
+2020,Indiana,65-74 years,1921,2014,33
+2020,Indiana,75-84 years,2899,2661,46
+2020,Indiana,85 years and over,3629,2588,46
+2021,Indiana,0-17 years,21,35,0
+2021,Indiana,18-29 years,66,68,1-9
+2021,Indiana,30-39 years,174,160,1-9
+2021,Indiana,40-49 years,457,414,1-9
+2021,Indiana,50-64 years,2107,1976,1-9
+2021,Indiana,65-74 years,2498,2480,1-9
+2021,Indiana,75-84 years,2543,2457,1-9
+2021,Indiana,85 years and over,2188,1925,1-9
+2022,Indiana,0-17 years,21,22,1-9
+2022,Indiana,18-29 years,37,38,1-9
+2022,Indiana,30-39 years,96,99,1-9
+2022,Indiana,40-49 years,228,223,1-9
+2022,Indiana,50-64 years,1046,1234,45
+2022,Indiana,65-74 years,1419,1694,52
+2022,Indiana,75-84 years,1614,1845,66
+2022,Indiana,85 years and over,1571,1530,46
+2023,Indiana,0-17 years,1-9,16,
+2023,Indiana,18-29 years,1-9,19,
+2023,Indiana,30-39 years,1-9,33,0
+2023,Indiana,40-49 years,13,92,1-9
+2023,Indiana,50-64 years,114,516,13
+2023,Indiana,65-74 years,195,739,19
+2023,Indiana,75-84 years,293,846,24
+2023,Indiana,85 years and over,399,817,25
+2020,Iowa,0-17 years,1-9,,
+2020,Iowa,18-29 years,11,13,1-9
+2020,Iowa,30-39 years,33,21,1-9
+2020,Iowa,40-49 years,59,53,0
+2020,Iowa,50-64 years,469,398,12
+2020,Iowa,65-74 years,793,671,24
+2020,Iowa,75-84 years,1341,942,22
+2020,Iowa,85 years and over,2061,1276,34
+2021,Iowa,0-17 years,1-9,,0
+2021,Iowa,18-29 years,20,1-9,
+2021,Iowa,30-39 years,63,29,0
+2021,Iowa,40-49 years,137,91,0
+2021,Iowa,50-64 years,647,506,1-9
+2021,Iowa,65-74 years,780,683,1-9
+2021,Iowa,75-84 years,892,800,1-9
+2021,Iowa,85 years and over,983,916,1-9
+2022,Iowa,0-17 years,1-9,10,
+2022,Iowa,18-29 years,1-9,,
+2022,Iowa,30-39 years,23,21,1-9
+2022,Iowa,40-49 years,70,59,1-9
+2022,Iowa,50-64 years,359,363,19
+2022,Iowa,65-74 years,424,477,18
+2022,Iowa,75-84 years,567,596,38
+2022,Iowa,85 years and over,789,800,55
+2023,Iowa,0-17 years,1-9,,
+2023,Iowa,18-29 years,1-9,,0
+2023,Iowa,30-39 years,1-9,,0
+2023,Iowa,40-49 years,1-9,27,
+2023,Iowa,50-64 years,36,136,1-9
+2023,Iowa,65-74 years,78,248,1-9
+2023,Iowa,75-84 years,126,328,18
+2023,Iowa,85 years and over,235,412,23
+2020,Kansas,0-17 years,1-9,,
+2020,Kansas,18-29 years,16,12,1-9
+2020,Kansas,30-39 years,29,27,1-9
+2020,Kansas,40-49 years,79,59,1-9
+2020,Kansas,50-64 years,383,397,22
+2020,Kansas,65-74 years,631,621,23
+2020,Kansas,75-84 years,1030,831,38
+2020,Kansas,85 years and over,1340,984,27
+2021,Kansas,0-17 years,1-9,,
+2021,Kansas,18-29 years,24,16,0
+2021,Kansas,30-39 years,71,55,0
+2021,Kansas,40-49 years,206,135,0
+2021,Kansas,50-64 years,793,599,1-9
+2021,Kansas,65-74 years,892,760,1-9
+2021,Kansas,75-84 years,883,822,1-9
+2021,Kansas,85 years and over,932,767,1-9
+2022,Kansas,0-17 years,1-9,,
+2022,Kansas,18-29 years,14,16,1-9
+2022,Kansas,30-39 years,38,38,1-9
+2022,Kansas,40-49 years,103,73,1-9
+2022,Kansas,50-64 years,387,374,18
+2022,Kansas,65-74 years,534,508,24
+2022,Kansas,75-84 years,630,615,33
+2022,Kansas,85 years and over,697,668,45
+2023,Kansas,0-17 years,1-9,,
+2023,Kansas,18-29 years,1-9,,
+2023,Kansas,30-39 years,1-9,13,0
+2023,Kansas,40-49 years,1-9,20,0
+2023,Kansas,50-64 years,43,133,1-9
+2023,Kansas,65-74 years,79,257,11
+2023,Kansas,75-84 years,121,314,1-9
+2023,Kansas,85 years and over,168,368,15
+2020,Kentucky,0-17 years,1-9,,
+2020,Kentucky,18-29 years,1-9,17,
+2020,Kentucky,30-39 years,24,67,1-9
+2020,Kentucky,40-49 years,79,175,1-9
+2020,Kentucky,50-64 years,576,982,37
+2020,Kentucky,65-74 years,1021,1460,39
+2020,Kentucky,75-84 years,1337,1749,28
+2020,Kentucky,85 years and over,1579,1507,26
+2021,Kentucky,0-17 years,1-9,10,0
+2021,Kentucky,18-29 years,64,45,0
+2021,Kentucky,30-39 years,172,131,0
+2021,Kentucky,40-49 years,452,375,1-9
+2021,Kentucky,50-64 years,2000,1877,1-9
+2021,Kentucky,65-74 years,2264,2336,1-9
+2021,Kentucky,75-84 years,2215,2282,1-9
+2021,Kentucky,85 years and over,1520,1470,1-9
+2022,Kentucky,0-17 years,10,11,1-9
+2022,Kentucky,18-29 years,30,26,1-9
+2022,Kentucky,30-39 years,69,61,1-9
+2022,Kentucky,40-49 years,157,185,11
+2022,Kentucky,50-64 years,940,1134,50
+2022,Kentucky,65-74 years,1382,1612,68
+2022,Kentucky,75-84 years,1716,1899,63
+2022,Kentucky,85 years and over,1452,1290,72
+2023,Kentucky,0-17 years,1-9,10,
+2023,Kentucky,18-29 years,1-9,18,0
+2023,Kentucky,30-39 years,13,39,0
+2023,Kentucky,40-49 years,20,83,1-9
+2023,Kentucky,50-64 years,130,494,14
+2023,Kentucky,65-74 years,230,743,1-9
+2023,Kentucky,75-84 years,374,843,27
+2023,Kentucky,85 years and over,430,650,15
+2020,Louisiana,0-17 years,1-9,18,
+2020,Louisiana,18-29 years,27,40,1-9
+2020,Louisiana,30-39 years,92,87,1-9
+2020,Louisiana,40-49 years,223,155,1-9
+2020,Louisiana,50-64 years,1201,1004,24
+2020,Louisiana,65-74 years,1700,1444,21
+2020,Louisiana,75-84 years,2082,1608,20
+2020,Louisiana,85 years and over,1732,1391,16
+2021,Louisiana,0-17 years,11,29,0
+2021,Louisiana,18-29 years,82,54,0
+2021,Louisiana,30-39 years,224,146,0
+2021,Louisiana,40-49 years,477,319,0
+2021,Louisiana,50-64 years,1794,1377,1-9
+2021,Louisiana,65-74 years,1866,1532,1-9
+2021,Louisiana,75-84 years,1481,1331,1-9
+2021,Louisiana,85 years and over,984,889,1-9
+2022,Louisiana,0-17 years,17,27,1-9
+2022,Louisiana,18-29 years,28,28,1-9
+2022,Louisiana,30-39 years,59,59,1-9
+2022,Louisiana,40-49 years,119,100,1-9
+2022,Louisiana,50-64 years,511,552,25
+2022,Louisiana,65-74 years,695,711,24
+2022,Louisiana,75-84 years,911,865,16
+2022,Louisiana,85 years and over,773,688,10
+2023,Louisiana,0-17 years,1-9,13,
+2023,Louisiana,18-29 years,1-9,,
+2023,Louisiana,30-39 years,1-9,20,
+2023,Louisiana,40-49 years,17,32,1-9
+2023,Louisiana,50-64 years,57,207,1-9
+2023,Louisiana,65-74 years,122,316,1-9
+2023,Louisiana,75-84 years,209,398,1-9
+2023,Louisiana,85 years and over,202,303,1-9
+2020,Maine,0-17 years,0,0,1-9
+2020,Maine,18-29 years,1-9,,0
+2020,Maine,30-39 years,1-9,,
+2020,Maine,40-49 years,1-9,18,
+2020,Maine,50-64 years,29,109,1-9
+2020,Maine,65-74 years,73,197,1-9
+2020,Maine,75-84 years,160,319,1-9
+2020,Maine,85 years and over,192,369,14
+2021,Maine,0-17 years,1-9,0,0
+2021,Maine,18-29 years,1-9,,0
+2021,Maine,30-39 years,18,15,0
+2021,Maine,40-49 years,49,36,0
+2021,Maine,50-64 years,253,203,1-9
+2021,Maine,65-74 years,301,290,1-9
+2021,Maine,75-84 years,396,374,0
+2021,Maine,85 years and over,411,352,1-9
+2022,Maine,0-17 years,1-9,,
+2022,Maine,18-29 years,1-9,,
+2022,Maine,30-39 years,10,1-9,
+2022,Maine,40-49 years,29,16,1-9
+2022,Maine,50-64 years,146,161,1-9
+2022,Maine,65-74 years,224,249,1-9
+2022,Maine,75-84 years,315,355,17
+2022,Maine,85 years and over,317,380,22
+2023,Maine,0-17 years,0,1-9,0
+2023,Maine,18-29 years,0,1-9,
+2023,Maine,30-39 years,1-9,,0
+2023,Maine,40-49 years,1-9,11,0
+2023,Maine,50-64 years,25,93,1-9
+2023,Maine,65-74 years,56,157,1-9
+2023,Maine,75-84 years,87,209,15
+2023,Maine,85 years and over,118,281,15
+2020,Maryland,0-17 years,1-9,,
+2020,Maryland,18-29 years,34,38,1-9
+2020,Maryland,30-39 years,78,78,1-9
+2020,Maryland,40-49 years,196,156,1-9
+2020,Maryland,50-64 years,978,834,32
+2020,Maryland,65-74 years,1349,1233,27
+2020,Maryland,75-84 years,1880,1648,39
+2020,Maryland,85 years and over,2210,1862,37
+2021,Maryland,0-17 years,10,1-9,0
+2021,Maryland,18-29 years,42,41,0
+2021,Maryland,30-39 years,117,98,0
+2021,Maryland,40-49 years,280,196,1-9
+2021,Maryland,50-64 years,1312,1086,1-9
+2021,Maryland,65-74 years,1384,1297,1-9
+2021,Maryland,75-84 years,1468,1505,1-9
+2021,Maryland,85 years and over,1488,1470,1-9
+2022,Maryland,0-17 years,14,1-9,
+2022,Maryland,18-29 years,22,25,0
+2022,Maryland,30-39 years,76,56,1-9
+2022,Maryland,40-49 years,155,128,1-9
+2022,Maryland,50-64 years,615,649,17
+2022,Maryland,65-74 years,921,1021,21
+2022,Maryland,75-84 years,1187,1259,24
+2022,Maryland,85 years and over,1325,1375,43
+2023,Maryland,0-17 years,1-9,,
+2023,Maryland,18-29 years,1-9,10,0
+2023,Maryland,30-39 years,1-9,33,0
+2023,Maryland,40-49 years,17,59,1-9
+2023,Maryland,50-64 years,86,278,10
+2023,Maryland,65-74 years,184,507,1-9
+2023,Maryland,75-84 years,264,693,15
+2023,Maryland,85 years and over,436,739,12
+2020,Massachusetts,0-17 years,1-9,,
+2020,Massachusetts,18-29 years,16,15,1-9
+2020,Massachusetts,30-39 years,40,43,1-9
+2020,Massachusetts,40-49 years,115,92,1-9
+2020,Massachusetts,50-64 years,847,776,43
+2020,Massachusetts,65-74 years,1596,1371,37
+2020,Massachusetts,75-84 years,2772,2164,56
+2020,Massachusetts,85 years and over,4833,3123,62
+2021,Massachusetts,0-17 years,1-9,10,0
+2021,Massachusetts,18-29 years,32,23,0
+2021,Massachusetts,30-39 years,74,65,0
+2021,Massachusetts,40-49 years,141,116,1-9
+2021,Massachusetts,50-64 years,903,873,1-9
+2021,Massachusetts,65-74 years,1167,1265,1-9
+2021,Massachusetts,75-84 years,1492,1608,1-9
+2021,Massachusetts,85 years and over,1762,1837,1-9
+2022,Massachusetts,0-17 years,13,11,1-9
+2022,Massachusetts,18-29 years,17,15,1-9
+2022,Massachusetts,30-39 years,52,50,1-9
+2022,Massachusetts,40-49 years,108,96,1-9
+2022,Massachusetts,50-64 years,520,568,13
+2022,Massachusetts,65-74 years,840,998,37
+2022,Massachusetts,75-84 years,1086,1377,55
+2022,Massachusetts,85 years and over,1699,1670,86
+2023,Massachusetts,0-17 years,1-9,,
+2023,Massachusetts,18-29 years,1-9,,
+2023,Massachusetts,30-39 years,1-9,23,
+2023,Massachusetts,40-49 years,15,54,1-9
+2023,Massachusetts,50-64 years,75,276,1-9
+2023,Massachusetts,65-74 years,159,512,23
+2023,Massachusetts,75-84 years,331,823,26
+2023,Massachusetts,85 years and over,558,966,49
+2020,Michigan,0-17 years,1-9,17,
+2020,Michigan,18-29 years,45,67,1-9
+2020,Michigan,30-39 years,86,108,1-9
+2020,Michigan,40-49 years,313,309,1-9
+2020,Michigan,50-64 years,1646,1796,75
+2020,Michigan,65-74 years,2806,2736,72
+2020,Michigan,75-84 years,3521,3270,60
+2020,Michigan,85 years and over,3922,3288,51
+2021,Michigan,0-17 years,15,20,1-9
+2021,Michigan,18-29 years,112,99,0
+2021,Michigan,30-39 years,311,245,0
+2021,Michigan,40-49 years,726,554,1-9
+2021,Michigan,50-64 years,3243,2621,1-9
+2021,Michigan,65-74 years,3692,3428,11
+2021,Michigan,75-84 years,3705,3385,1-9
+2021,Michigan,85 years and over,3141,2776,1-9
+2022,Michigan,0-17 years,24,30,1-9
+2022,Michigan,18-29 years,42,47,1-9
+2022,Michigan,30-39 years,111,110,1-9
+2022,Michigan,40-49 years,229,217,1-9
+2022,Michigan,50-64 years,1240,1311,26
+2022,Michigan,65-74 years,1782,2085,45
+2022,Michigan,75-84 years,2135,2252,64
+2022,Michigan,85 years and over,2549,2139,56
+2023,Michigan,0-17 years,1-9,17,
+2023,Michigan,18-29 years,1-9,15,0
+2023,Michigan,30-39 years,12,62,1-9
+2023,Michigan,40-49 years,32,94,1-9
+2023,Michigan,50-64 years,161,608,20
+2023,Michigan,65-74 years,284,953,38
+2023,Michigan,75-84 years,537,1151,46
+2023,Michigan,85 years and over,667,1061,37
+2020,Minnesota,0-17 years,1-9,17,
+2020,Minnesota,18-29 years,12,16,1-9
+2020,Minnesota,30-39 years,35,41,1-9
+2020,Minnesota,40-49 years,77,97,1-9
+2020,Minnesota,50-64 years,497,531,35
+2020,Minnesota,65-74 years,937,862,36
+2020,Minnesota,75-84 years,1615,1281,31
+2020,Minnesota,85 years and over,2660,1713,37
+2021,Minnesota,0-17 years,1-9,19,
+2021,Minnesota,18-29 years,31,25,1-9
+2021,Minnesota,30-39 years,110,64,1-9
+2021,Minnesota,40-49 years,198,144,1-9
+2021,Minnesota,50-64 years,974,729,1-9
+2021,Minnesota,65-74 years,1085,982,1-9
+2021,Minnesota,75-84 years,1348,1199,1-9
+2021,Minnesota,85 years and over,1428,1353,1-9
+2022,Minnesota,0-17 years,17,23,1-9
+2022,Minnesota,18-29 years,19,15,1-9
+2022,Minnesota,30-39 years,37,45,1-9
+2022,Minnesota,40-49 years,88,89,1-9
+2022,Minnesota,50-64 years,496,444,24
+2022,Minnesota,65-74 years,621,713,25
+2022,Minnesota,75-84 years,881,985,45
+2022,Minnesota,85 years and over,1201,1129,55
+2023,Minnesota,0-17 years,1-9,13,
+2023,Minnesota,18-29 years,1-9,,
+2023,Minnesota,30-39 years,1-9,20,
+2023,Minnesota,40-49 years,17,22,1-9
+2023,Minnesota,50-64 years,54,222,1-9
+2023,Minnesota,65-74 years,118,416,11
+2023,Minnesota,75-84 years,232,580,16
+2023,Minnesota,85 years and over,493,728,20
+2020,Mississippi,0-17 years,1-9,,
+2020,Mississippi,18-29 years,28,31,1-9
+2020,Mississippi,30-39 years,85,73,1-9
+2020,Mississippi,40-49 years,190,186,1-9
+2020,Mississippi,50-64 years,917,963,19
+2020,Mississippi,65-74 years,1262,1289,14
+2020,Mississippi,75-84 years,1445,1404,17
+2020,Mississippi,85 years and over,1234,1124,1-9
+2021,Mississippi,0-17 years,1-9,10,0
+2021,Mississippi,18-29 years,57,41,0
+2021,Mississippi,30-39 years,203,149,1-9
+2021,Mississippi,40-49 years,420,301,1-9
+2021,Mississippi,50-64 years,1497,1304,12
+2021,Mississippi,65-74 years,1503,1435,1-9
+2021,Mississippi,75-84 years,1331,1307,1-9
+2021,Mississippi,85 years and over,893,895,1-9
+2022,Mississippi,0-17 years,1-9,12,0
+2022,Mississippi,18-29 years,22,21,1-9
+2022,Mississippi,30-39 years,54,48,1-9
+2022,Mississippi,40-49 years,127,128,1-9
+2022,Mississippi,50-64 years,509,670,35
+2022,Mississippi,65-74 years,800,935,30
+2022,Mississippi,75-84 years,931,981,26
+2022,Mississippi,85 years and over,743,750,20
+2023,Mississippi,0-17 years,1-9,,0
+2023,Mississippi,18-29 years,1-9,,
+2023,Mississippi,30-39 years,12,27,1-9
+2023,Mississippi,40-49 years,1-9,62,0
+2023,Mississippi,50-64 years,92,272,1-9
+2023,Mississippi,65-74 years,160,403,13
+2023,Mississippi,75-84 years,203,450,10
+2023,Mississippi,85 years and over,217,378,1-9
+2020,Missouri,0-17 years,1-9,21,
+2020,Missouri,18-29 years,20,23,1-9
+2020,Missouri,30-39 years,39,43,1-9
+2020,Missouri,40-49 years,148,146,10
+2020,Missouri,50-64 years,925,946,46
+2020,Missouri,65-74 years,1667,1490,42
+2020,Missouri,75-84 years,2324,2017,56
+2020,Missouri,85 years and over,2934,2126,41
+2021,Missouri,0-17 years,16,17,1-9
+2021,Missouri,18-29 years,72,48,0
+2021,Missouri,30-39 years,183,157,1-9
+2021,Missouri,40-49 years,489,341,1-9
+2021,Missouri,50-64 years,2042,1680,1-9
+2021,Missouri,65-74 years,2164,1948,1-9
+2021,Missouri,75-84 years,2160,2052,1-9
+2021,Missouri,85 years and over,1820,1669,1-9
+2022,Missouri,0-17 years,17,29,1-9
+2022,Missouri,18-29 years,33,32,1-9
+2022,Missouri,30-39 years,85,83,1-9
+2022,Missouri,40-49 years,179,187,14
+2022,Missouri,50-64 years,980,981,42
+2022,Missouri,65-74 years,1207,1395,52
+2022,Missouri,75-84 years,1473,1644,69
+2022,Missouri,85 years and over,1459,1338,66
+2023,Missouri,0-17 years,1-9,12,
+2023,Missouri,18-29 years,1-9,19,0
+2023,Missouri,30-39 years,1-9,34,0
+2023,Missouri,40-49 years,18,61,1-9
+2023,Missouri,50-64 years,90,388,12
+2023,Missouri,65-74 years,172,656,18
+2023,Missouri,75-84 years,291,785,19
+2023,Missouri,85 years and over,334,787,30
+2020,Montana,0-17 years,0,1-9,0
+2020,Montana,18-29 years,1-9,,0
+2020,Montana,30-39 years,19,17,1-9
+2020,Montana,40-49 years,30,24,1-9
+2020,Montana,50-64 years,167,141,1-9
+2020,Montana,65-74 years,272,266,1-9
+2020,Montana,75-84 years,369,321,1-9
+2020,Montana,85 years and over,411,307,13
+2021,Montana,0-17 years,1-9,,0
+2021,Montana,18-29 years,11,1-9,0
+2021,Montana,30-39 years,34,27,0
+2021,Montana,40-49 years,75,57,0
+2021,Montana,50-64 years,366,311,1-9
+2021,Montana,65-74 years,471,390,1-9
+2021,Montana,75-84 years,482,414,1-9
+2021,Montana,85 years and over,376,287,0
+2022,Montana,0-17 years,1-9,,0
+2022,Montana,18-29 years,1-9,,
+2022,Montana,30-39 years,1-9,22,0
+2022,Montana,40-49 years,20,17,0
+2022,Montana,50-64 years,99,116,1-9
+2022,Montana,65-74 years,165,210,10
+2022,Montana,75-84 years,223,244,15
+2022,Montana,85 years and over,212,203,13
+2023,Montana,0-17 years,0,1-9,0
+2023,Montana,18-29 years,1-9,,0
+2023,Montana,30-39 years,0,11,1-9
+2023,Montana,40-49 years,1-9,12,
+2023,Montana,50-64 years,1-9,53,
+2023,Montana,65-74 years,28,78,1-9
+2023,Montana,75-84 years,49,111,1-9
+2023,Montana,85 years and over,59,130,1-9
+2020,Nebraska,0-17 years,1-9,,
+2020,Nebraska,18-29 years,11,13,1-9
+2020,Nebraska,30-39 years,20,18,1-9
+2020,Nebraska,40-49 years,36,31,1-9
+2020,Nebraska,50-64 years,269,262,14
+2020,Nebraska,65-74 years,437,364,1-9
+2020,Nebraska,75-84 years,634,546,1-9
+2020,Nebraska,85 years and over,845,720,15
+2021,Nebraska,0-17 years,1-9,,
+2021,Nebraska,18-29 years,20,23,0
+2021,Nebraska,30-39 years,48,35,0
+2021,Nebraska,40-49 years,99,87,0
+2021,Nebraska,50-64 years,380,360,1-9
+2021,Nebraska,65-74 years,437,459,1-9
+2021,Nebraska,75-84 years,459,480,0
+2021,Nebraska,85 years and over,494,525,1-9
+2022,Nebraska,0-17 years,1-9,,
+2022,Nebraska,18-29 years,1-9,10,
+2022,Nebraska,30-39 years,18,21,1-9
+2022,Nebraska,40-49 years,29,37,1-9
+2022,Nebraska,50-64 years,179,194,1-9
+2022,Nebraska,65-74 years,296,319,14
+2022,Nebraska,75-84 years,332,375,18
+2022,Nebraska,85 years and over,429,444,25
+2023,Nebraska,0-17 years,0,1-9,0
+2023,Nebraska,18-29 years,0,1-9,0
+2023,Nebraska,30-39 years,0,11,1-9
+2023,Nebraska,40-49 years,0,16,0
+2023,Nebraska,50-64 years,19,91,1-9
+2023,Nebraska,65-74 years,47,159,1-9
+2023,Nebraska,75-84 years,111,241,1-9
+2023,Nebraska,85 years and over,150,281,1-9
+2020,Nevada,0-17 years,1-9,,0
+2020,Nevada,18-29 years,17,20,0
+2020,Nevada,30-39 years,48,63,1-9
+2020,Nevada,40-49 years,169,181,1-9
+2020,Nevada,50-64 years,663,844,18
+2020,Nevada,65-74 years,904,1175,14
+2020,Nevada,75-84 years,1047,1259,12
+2020,Nevada,85 years and over,675,808,1-9
+2021,Nevada,0-17 years,1-9,,0
+2021,Nevada,18-29 years,49,47,0
+2021,Nevada,30-39 years,160,164,0
+2021,Nevada,40-49 years,393,361,0
+2021,Nevada,50-64 years,1371,1351,1-9
+2021,Nevada,65-74 years,1497,1640,1-9
+2021,Nevada,75-84 years,1365,1494,1-9
+2021,Nevada,85 years and over,805,871,0
+2022,Nevada,0-17 years,10,1-9,0
+2022,Nevada,18-29 years,12,27,1-9
+2022,Nevada,30-39 years,33,51,1-9
+2022,Nevada,40-49 years,113,143,1-9
+2022,Nevada,50-64 years,415,599,17
+2022,Nevada,65-74 years,717,1013,27
+2022,Nevada,75-84 years,827,1118,22
+2022,Nevada,85 years and over,586,734,20
+2023,Nevada,0-17 years,1-9,,
+2023,Nevada,18-29 years,1-9,10,
+2023,Nevada,30-39 years,1-9,31,0
+2023,Nevada,40-49 years,1-9,47,
+2023,Nevada,50-64 years,29,225,12
+2023,Nevada,65-74 years,94,363,1-9
+2023,Nevada,75-84 years,123,483,1-9
+2023,Nevada,85 years and over,115,280,1-9
+2020,New Hampshire,0-17 years,0,1-9,
+2020,New Hampshire,18-29 years,1-9,0,0
+2020,New Hampshire,30-39 years,1-9,,
+2020,New Hampshire,40-49 years,1-9,15,0
+2020,New Hampshire,50-64 years,43,82,1-9
+2020,New Hampshire,65-74 years,127,176,11
+2020,New Hampshire,75-84 years,243,248,1-9
+2020,New Hampshire,85 years and over,406,296,1-9
+2021,New Hampshire,0-17 years,1-9,,0
+2021,New Hampshire,18-29 years,1-9,,0
+2021,New Hampshire,30-39 years,16,12,1-9
+2021,New Hampshire,40-49 years,38,28,0
+2021,New Hampshire,50-64 years,165,148,0
+2021,New Hampshire,65-74 years,265,249,1-9
+2021,New Hampshire,75-84 years,323,297,0
+2021,New Hampshire,85 years and over,393,314,1-9
+2022,New Hampshire,0-17 years,0,1-9,
+2022,New Hampshire,18-29 years,1-9,,0
+2022,New Hampshire,30-39 years,1-9,,
+2022,New Hampshire,40-49 years,19,20,1-9
+2022,New Hampshire,50-64 years,112,138,1-9
+2022,New Hampshire,65-74 years,179,195,1-9
+2022,New Hampshire,75-84 years,222,259,1-9
+2022,New Hampshire,85 years and over,281,271,10
+2023,New Hampshire,0-17 years,1-9,0,0
+2023,New Hampshire,18-29 years,1-9,,0
+2023,New Hampshire,30-39 years,1-9,,0
+2023,New Hampshire,40-49 years,1-9,11,0
+2023,New Hampshire,50-64 years,19,45,1-9
+2023,New Hampshire,65-74 years,38,106,1-9
+2023,New Hampshire,75-84 years,80,159,10
+2023,New Hampshire,85 years and over,112,189,1-9
+2020,New Jersey,0-17 years,1-9,,
+2020,New Jersey,18-29 years,69,51,0
+2020,New Jersey,30-39 years,217,143,1-9
+2020,New Jersey,40-49 years,553,378,10
+2020,New Jersey,50-64 years,2911,2053,25
+2020,New Jersey,65-74 years,3607,2661,24
+2020,New Jersey,75-84 years,4774,3664,33
+2020,New Jersey,85 years and over,6029,4338,54
+2021,New Jersey,0-17 years,1-9,12,0
+2021,New Jersey,18-29 years,68,51,1-9
+2021,New Jersey,30-39 years,157,123,1-9
+2021,New Jersey,40-49 years,369,294,0
+2021,New Jersey,50-64 years,1928,1541,1-9
+2021,New Jersey,65-74 years,2220,1896,1-9
+2021,New Jersey,75-84 years,2419,2262,1-9
+2021,New Jersey,85 years and over,2436,2459,1-9
+2022,New Jersey,0-17 years,14,14,1-9
+2022,New Jersey,18-29 years,25,24,1-9
+2022,New Jersey,30-39 years,70,68,1-9
+2022,New Jersey,40-49 years,161,136,1-9
+2022,New Jersey,50-64 years,912,866,18
+2022,New Jersey,65-74 years,1269,1255,19
+2022,New Jersey,75-84 years,1796,1822,30
+2022,New Jersey,85 years and over,2324,2074,48
+2023,New Jersey,0-17 years,1-9,,
+2023,New Jersey,18-29 years,1-9,17,
+2023,New Jersey,30-39 years,1-9,35,0
+2023,New Jersey,40-49 years,22,58,0
+2023,New Jersey,50-64 years,98,327,10
+2023,New Jersey,65-74 years,224,519,16
+2023,New Jersey,75-84 years,381,829,14
+2023,New Jersey,85 years and over,612,1044,27
+2020,New Mexico,0-17 years,1-9,,
+2020,New Mexico,18-29 years,28,27,1-9
+2020,New Mexico,30-39 years,92,88,1-9
+2020,New Mexico,40-49 years,140,137,1-9
+2020,New Mexico,50-64 years,561,513,19
+2020,New Mexico,65-74 years,656,590,12
+2020,New Mexico,75-84 years,726,639,12
+2020,New Mexico,85 years and over,682,535,1-9
+2021,New Mexico,0-17 years,1-9,,0
+2021,New Mexico,18-29 years,53,43,0
+2021,New Mexico,30-39 years,174,155,0
+2021,New Mexico,40-49 years,339,276,0
+2021,New Mexico,50-64 years,934,779,0
+2021,New Mexico,65-74 years,901,780,1-9
+2021,New Mexico,75-84 years,739,634,1-9
+2021,New Mexico,85 years and over,557,519,0
+2022,New Mexico,0-17 years,1-9,,
+2022,New Mexico,18-29 years,20,14,1-9
+2022,New Mexico,30-39 years,79,71,1-9
+2022,New Mexico,40-49 years,116,110,1-9
+2022,New Mexico,50-64 years,379,391,25
+2022,New Mexico,65-74 years,431,493,14
+2022,New Mexico,75-84 years,491,532,26
+2022,New Mexico,85 years and over,487,495,1-9
+2023,New Mexico,0-17 years,1-9,,
+2023,New Mexico,18-29 years,1-9,,0
+2023,New Mexico,30-39 years,1-9,26,
+2023,New Mexico,40-49 years,20,55,1-9
+2023,New Mexico,50-64 years,41,152,1-9
+2023,New Mexico,65-74 years,64,202,1-9
+2023,New Mexico,75-84 years,107,262,11
+2023,New Mexico,85 years and over,119,247,1-9
+2020,New York,0-17 years,1-9,11,
+2020,New York,18-29 years,54,67,1-9
+2020,New York,30-39 years,127,131,1-9
+2020,New York,40-49 years,385,305,1-9
+2020,New York,50-64 years,2115,1942,46
+2020,New York,65-74 years,3134,2920,54
+2020,New York,75-84 years,4248,3985,63
+2020,New York,85 years and over,6126,5657,93
+2021,New York,0-17 years,12,16,0
+2021,New York,18-29 years,62,60,0
+2021,New York,30-39 years,201,139,0
+2021,New York,40-49 years,413,310,0
+2021,New York,50-64 years,2419,2043,1-9
+2021,New York,65-74 years,3081,2781,1-9
+2021,New York,75-84 years,3874,3699,1-9
+2021,New York,85 years and over,4739,4429,12
+2022,New York,0-17 years,25,26,1-9
+2022,New York,18-29 years,50,45,1-9
+2022,New York,30-39 years,107,92,1-9
+2022,New York,40-49 years,207,212,1-9
+2022,New York,50-64 years,1142,1315,41
+2022,New York,65-74 years,1707,2034,67
+2022,New York,75-84 years,2408,2908,76
+2022,New York,85 years and over,3445,3669,133
+2023,New York,0-17 years,1-9,12,
+2023,New York,18-29 years,1-9,21,
+2023,New York,30-39 years,12,61,1-9
+2023,New York,40-49 years,34,86,1-9
+2023,New York,50-64 years,177,653,18
+2023,New York,65-74 years,337,1068,23
+2023,New York,75-84 years,609,1661,39
+2023,New York,85 years and over,1005,2189,61
+2020,North Carolina,0-17 years,1-9,17,
+2020,North Carolina,18-29 years,27,46,1-9
+2020,North Carolina,30-39 years,80,97,10
+2020,North Carolina,40-49 years,232,254,13
+2020,North Carolina,50-64 years,1189,1429,78
+2020,North Carolina,65-74 years,1979,2337,67
+2020,North Carolina,75-84 years,2544,2835,53
+2020,North Carolina,85 years and over,2737,2722,54
+2021,North Carolina,0-17 years,19,23,0
+2021,North Carolina,18-29 years,114,91,1-9
+2021,North Carolina,30-39 years,370,283,0
+2021,North Carolina,40-49 years,859,644,1-9
+2021,North Carolina,50-64 years,3513,3109,1-9
+2021,North Carolina,65-74 years,3722,3641,1-9
+2021,North Carolina,75-84 years,3686,3696,1-9
+2021,North Carolina,85 years and over,2952,2888,1-9
+2022,North Carolina,0-17 years,22,24,1-9
+2022,North Carolina,18-29 years,46,50,1-9
+2022,North Carolina,30-39 years,113,135,1-9
+2022,North Carolina,40-49 years,270,272,12
+2022,North Carolina,50-64 years,1438,1640,65
+2022,North Carolina,65-74 years,1890,2321,65
+2022,North Carolina,75-84 years,2339,2800,71
+2022,North Carolina,85 years and over,2267,2399,84
+2023,North Carolina,0-17 years,1-9,17,
+2023,North Carolina,18-29 years,1-9,18,0
+2023,North Carolina,30-39 years,14,50,1-9
+2023,North Carolina,40-49 years,25,99,1-9
+2023,North Carolina,50-64 years,184,738,16
+2023,North Carolina,65-74 years,365,1065,22
+2023,North Carolina,75-84 years,649,1484,32
+2023,North Carolina,85 years and over,727,1369,25
+2020,North Dakota,0-17 years,1-9,,0
+2020,North Dakota,18-29 years,1-9,,0
+2020,North Dakota,30-39 years,13,19,1-9
+2020,North Dakota,40-49 years,24,29,1-9
+2020,North Dakota,50-64 years,149,154,1-9
+2020,North Dakota,65-74 years,243,264,1-9
+2020,North Dakota,75-84 years,408,358,1-9
+2020,North Dakota,85 years and over,671,446,1-9
+2021,North Dakota,0-17 years,1-9,,0
+2021,North Dakota,18-29 years,1-9,,0
+2021,North Dakota,30-39 years,23,24,0
+2021,North Dakota,40-49 years,56,37,1-9
+2021,North Dakota,50-64 years,209,212,1-9
+2021,North Dakota,65-74 years,227,244,1-9
+2021,North Dakota,75-84 years,211,268,1-9
+2021,North Dakota,85 years and over,201,260,1-9
+2022,North Dakota,0-17 years,1-9,,
+2022,North Dakota,18-29 years,1-9,,
+2022,North Dakota,30-39 years,12,16,1-9
+2022,North Dakota,40-49 years,12,23,1-9
+2022,North Dakota,50-64 years,71,102,1-9
+2022,North Dakota,65-74 years,131,179,1-9
+2022,North Dakota,75-84 years,135,186,1-9
+2022,North Dakota,85 years and over,171,196,1-9
+2023,North Dakota,0-17 years,0,1-9,0
+2023,North Dakota,18-29 years,0,1-9,0
+2023,North Dakota,30-39 years,0,1-9,
+2023,North Dakota,40-49 years,0,13,0
+2023,North Dakota,50-64 years,1-9,58,
+2023,North Dakota,65-74 years,21,89,1-9
+2023,North Dakota,75-84 years,35,105,1-9
+2023,North Dakota,85 years and over,47,108,1-9
+2020,Ohio,0-17 years,1-9,27,
+2020,Ohio,18-29 years,20,51,10
+2020,Ohio,30-39 years,91,120,12
+2020,Ohio,40-49 years,205,277,21
+2020,Ohio,50-64 years,1553,1768,67
+2020,Ohio,65-74 years,2962,2851,73
+2020,Ohio,75-84 years,4600,3786,67
+2020,Ohio,85 years and over,5661,3897,61
+2021,Ohio,0-17 years,26,45,1-9
+2021,Ohio,18-29 years,120,89,1-9
+2021,Ohio,30-39 years,383,288,0
+2021,Ohio,40-49 years,849,643,0
+2021,Ohio,50-64 years,4065,3465,1-9
+2021,Ohio,65-74 years,5037,4355,1-9
+2021,Ohio,75-84 years,5240,4424,11
+2021,Ohio,85 years and over,4816,3686,1-9
+2022,Ohio,0-17 years,31,48,1-9
+2022,Ohio,18-29 years,54,58,12
+2022,Ohio,30-39 years,139,136,1-9
+2022,Ohio,40-49 years,314,300,1-9
+2022,Ohio,50-64 years,1898,1912,76
+2022,Ohio,65-74 years,2741,2754,78
+2022,Ohio,75-84 years,3311,2990,95
+2022,Ohio,85 years and over,3484,2702,87
+2023,Ohio,0-17 years,1-9,29,
+2023,Ohio,18-29 years,1-9,19,
+2023,Ohio,30-39 years,14,53,1-9
+2023,Ohio,40-49 years,25,103,1-9
+2023,Ohio,50-64 years,182,674,25
+2023,Ohio,65-74 years,426,1054,38
+2023,Ohio,75-84 years,616,1288,38
+2023,Ohio,85 years and over,847,1235,28
+2020,Oklahoma,0-17 years,1-9,14,
+2020,Oklahoma,18-29 years,19,31,1-9
+2020,Oklahoma,30-39 years,57,65,1-9
+2020,Oklahoma,40-49 years,147,154,1-9
+2020,Oklahoma,50-64 years,758,835,41
+2020,Oklahoma,65-74 years,1235,1283,32
+2020,Oklahoma,75-84 years,1507,1473,32
+2020,Oklahoma,85 years and over,1520,1269,23
+2021,Oklahoma,0-17 years,17,24,0
+2021,Oklahoma,18-29 years,73,71,1-9
+2021,Oklahoma,30-39 years,207,145,1-9
+2021,Oklahoma,40-49 years,527,342,1-9
+2021,Oklahoma,50-64 years,1826,1486,1-9
+2021,Oklahoma,65-74 years,1901,1668,12
+2021,Oklahoma,75-84 years,1857,1634,13
+2021,Oklahoma,85 years and over,1442,1169,1-9
+2022,Oklahoma,0-17 years,21,26,1-9
+2022,Oklahoma,18-29 years,45,39,1-9
+2022,Oklahoma,30-39 years,83,95,1-9
+2022,Oklahoma,40-49 years,181,198,11
+2022,Oklahoma,50-64 years,871,884,44
+2022,Oklahoma,65-74 years,1065,1248,62
+2022,Oklahoma,75-84 years,1256,1268,52
+2022,Oklahoma,85 years and over,1040,994,36
+2023,Oklahoma,0-17 years,1-9,,0
+2023,Oklahoma,18-29 years,1-9,12,
+2023,Oklahoma,30-39 years,1-9,33,0
+2023,Oklahoma,40-49 years,11,81,1-9
+2023,Oklahoma,50-64 years,107,374,15
+2023,Oklahoma,65-74 years,174,559,26
+2023,Oklahoma,75-84 years,274,665,29
+2023,Oklahoma,85 years and over,285,479,11
+2020,Oregon,0-17 years,0,1-9,
+2020,Oregon,18-29 years,1-9,,0
+2020,Oregon,30-39 years,15,28,1-9
+2020,Oregon,40-49 years,29,41,1-9
+2020,Oregon,50-64 years,214,294,20
+2020,Oregon,65-74 years,281,470,18
+2020,Oregon,75-84 years,481,604,20
+2020,Oregon,85 years and over,590,631,19
+2021,Oregon,0-17 years,1-9,,0
+2021,Oregon,18-29 years,29,13,0
+2021,Oregon,30-39 years,88,43,1-9
+2021,Oregon,40-49 years,229,139,0
+2021,Oregon,50-64 years,881,669,0
+2021,Oregon,65-74 years,976,793,1-9
+2021,Oregon,75-84 years,1024,790,1-9
+2021,Oregon,85 years and over,960,785,1-9
+2022,Oregon,0-17 years,1-9,,
+2022,Oregon,18-29 years,12,1-9,
+2022,Oregon,30-39 years,36,26,1-9
+2022,Oregon,40-49 years,87,75,1-9
+2022,Oregon,50-64 years,360,378,21
+2022,Oregon,65-74 years,530,604,43
+2022,Oregon,75-84 years,777,744,42
+2022,Oregon,85 years and over,990,762,57
+2023,Oregon,0-17 years,1-9,,
+2023,Oregon,18-29 years,1-9,,0
+2023,Oregon,30-39 years,1-9,16,
+2023,Oregon,40-49 years,1-9,30,
+2023,Oregon,50-64 years,47,158,10
+2023,Oregon,65-74 years,100,341,1-9
+2023,Oregon,75-84 years,197,448,19
+2023,Oregon,85 years and over,265,406,20
+2020,Pennsylvania,0-17 years,1-9,17,
+2020,Pennsylvania,18-29 years,33,54,1-9
+2020,Pennsylvania,30-39 years,88,96,10
+2020,Pennsylvania,40-49 years,250,242,1-9
+2020,Pennsylvania,50-64 years,1839,1676,74
+2020,Pennsylvania,65-74 years,3319,2843,53
+2020,Pennsylvania,75-84 years,5041,3906,96
+2020,Pennsylvania,85 years and over,7834,4810,88
+2021,Pennsylvania,0-17 years,21,26,1-9
+2021,Pennsylvania,18-29 years,93,72,1-9
+2021,Pennsylvania,30-39 years,290,213,1-9
+2021,Pennsylvania,40-49 years,744,509,0
+2021,Pennsylvania,50-64 years,3719,2887,1-9
+2021,Pennsylvania,65-74 years,4838,4025,12
+2021,Pennsylvania,75-84 years,5173,4340,12
+2021,Pennsylvania,85 years and over,5668,4296,13
+2022,Pennsylvania,0-17 years,26,30,1-9
+2022,Pennsylvania,18-29 years,54,39,1-9
+2022,Pennsylvania,30-39 years,133,128,1-9
+2022,Pennsylvania,40-49 years,332,289,11
+2022,Pennsylvania,50-64 years,1813,1624,66
+2022,Pennsylvania,65-74 years,2353,2413,68
+2022,Pennsylvania,75-84 years,3129,2968,110
+2022,Pennsylvania,85 years and over,3802,3213,119
+2023,Pennsylvania,0-17 years,0,16,1-9
+2023,Pennsylvania,18-29 years,1-9,31,0
+2023,Pennsylvania,30-39 years,19,57,1-9
+2023,Pennsylvania,40-49 years,26,117,1-9
+2023,Pennsylvania,50-64 years,191,634,28
+2023,Pennsylvania,65-74 years,374,1095,29
+2023,Pennsylvania,75-84 years,777,1515,52
+2023,Pennsylvania,85 years and over,1060,1717,58
+2020,Rhode Island,0-17 years,1-9,,0
+2020,Rhode Island,18-29 years,1-9,,0
+2020,Rhode Island,30-39 years,1-9,,0
+2020,Rhode Island,40-49 years,25,13,1-9
+2020,Rhode Island,50-64 years,155,153,1-9
+2020,Rhode Island,65-74 years,344,252,1-9
+2020,Rhode Island,75-84 years,495,359,10
+2020,Rhode Island,85 years and over,885,509,14
+2021,Rhode Island,0-17 years,0,0,0
+2021,Rhode Island,18-29 years,1-9,,0
+2021,Rhode Island,30-39 years,1-9,13,
+2021,Rhode Island,40-49 years,28,24,0
+2021,Rhode Island,50-64 years,185,161,0
+2021,Rhode Island,65-74 years,270,223,1-9
+2021,Rhode Island,75-84 years,296,271,0
+2021,Rhode Island,85 years and over,424,343,1-9
+2022,Rhode Island,0-17 years,1-9,,
+2022,Rhode Island,18-29 years,1-9,,
+2022,Rhode Island,30-39 years,11,1-9,0
+2022,Rhode Island,40-49 years,13,16,0
+2022,Rhode Island,50-64 years,109,120,1-9
+2022,Rhode Island,65-74 years,141,119,1-9
+2022,Rhode Island,75-84 years,196,167,1-9
+2022,Rhode Island,85 years and over,296,249,10
+2023,Rhode Island,0-17 years,0,1-9,0
+2023,Rhode Island,18-29 years,1-9,,0
+2023,Rhode Island,30-39 years,1-9,,0
+2023,Rhode Island,40-49 years,1-9,,0
+2023,Rhode Island,50-64 years,15,35,1-9
+2023,Rhode Island,65-74 years,27,67,1-9
+2023,Rhode Island,75-84 years,50,97,1-9
+2023,Rhode Island,85 years and over,84,132,12
+2020,South Carolina,0-17 years,1-9,12,
+2020,South Carolina,18-29 years,24,37,1-9
+2020,South Carolina,30-39 years,47,53,1-9
+2020,South Carolina,40-49 years,159,153,16
+2020,South Carolina,50-64 years,830,960,40
+2020,South Carolina,65-74 years,1363,1337,28
+2020,South Carolina,75-84 years,1746,1585,36
+2020,South Carolina,85 years and over,1533,1361,20
+2021,South Carolina,0-17 years,21,12,1-9
+2021,South Carolina,18-29 years,73,43,0
+2021,South Carolina,30-39 years,224,139,0
+2021,South Carolina,40-49 years,580,297,1-9
+2021,South Carolina,50-64 years,2188,1428,1-9
+2021,South Carolina,65-74 years,2574,1769,1-9
+2021,South Carolina,75-84 years,2283,1706,1-9
+2021,South Carolina,85 years and over,1554,1130,1-9
+2022,South Carolina,0-17 years,19,17,1-9
+2022,South Carolina,18-29 years,30,32,1-9
+2022,South Carolina,30-39 years,65,52,1-9
+2022,South Carolina,40-49 years,151,138,1-9
+2022,South Carolina,50-64 years,726,801,24
+2022,South Carolina,65-74 years,1078,1174,30
+2022,South Carolina,75-84 years,1331,1356,40
+2022,South Carolina,85 years and over,1172,1006,24
+2023,South Carolina,0-17 years,1-9,,
+2023,South Carolina,18-29 years,1-9,12,0
+2023,South Carolina,30-39 years,10,29,0
+2023,South Carolina,40-49 years,19,55,1-9
+2023,South Carolina,50-64 years,111,338,11
+2023,South Carolina,65-74 years,224,566,14
+2023,South Carolina,75-84 years,361,691,14
+2023,South Carolina,85 years and over,337,535,16
+2020,South Dakota,0-17 years,0,1-9,
+2020,South Dakota,18-29 years,1-9,,
+2020,South Dakota,30-39 years,17,14,1-9
+2020,South Dakota,40-49 years,34,30,0
+2020,South Dakota,50-64 years,183,190,1-9
+2020,South Dakota,65-74 years,325,284,1-9
+2020,South Dakota,75-84 years,444,334,1-9
+2020,South Dakota,85 years and over,709,388,1-9
+2021,South Dakota,0-17 years,1-9,,0
+2021,South Dakota,18-29 years,1-9,,0
+2021,South Dakota,30-39 years,25,29,0
+2021,South Dakota,40-49 years,42,42,1-9
+2021,South Dakota,50-64 years,198,195,1-9
+2021,South Dakota,65-74 years,254,298,0
+2021,South Dakota,75-84 years,219,255,0
+2021,South Dakota,85 years and over,238,252,1-9
+2022,South Dakota,0-17 years,1-9,,
+2022,South Dakota,18-29 years,1-9,,0
+2022,South Dakota,30-39 years,13,20,1-9
+2022,South Dakota,40-49 years,27,38,1-9
+2022,South Dakota,50-64 years,88,138,1-9
+2022,South Dakota,65-74 years,136,179,1-9
+2022,South Dakota,75-84 years,172,199,13
+2022,South Dakota,85 years and over,191,210,14
+2023,South Dakota,0-17 years,0,1-9,0
+2023,South Dakota,18-29 years,1-9,,0
+2023,South Dakota,30-39 years,1-9,10,
+2023,South Dakota,40-49 years,1-9,,
+2023,South Dakota,50-64 years,15,51,1-9
+2023,South Dakota,65-74 years,12,83,1-9
+2023,South Dakota,75-84 years,45,119,10
+2023,South Dakota,85 years and over,59,137,1-9
+2020,Tennessee,0-17 years,1-9,24,
+2020,Tennessee,18-29 years,33,48,1-9
+2020,Tennessee,30-39 years,79,96,11
+2020,Tennessee,40-49 years,228,278,19
+2020,Tennessee,50-64 years,1231,1640,58
+2020,Tennessee,65-74 years,1882,2305,63
+2020,Tennessee,75-84 years,2401,2701,46
+2020,Tennessee,85 years and over,2064,2189,32
+2021,Tennessee,0-17 years,21,25,1-9
+2021,Tennessee,18-29 years,116,84,0
+2021,Tennessee,30-39 years,391,295,1-9
+2021,Tennessee,40-49 years,864,623,1-9
+2021,Tennessee,50-64 years,3418,2947,15
+2021,Tennessee,65-74 years,3502,3254,15
+2021,Tennessee,75-84 years,3244,3098,34
+2021,Tennessee,85 years and over,2149,2023,1-9
+2022,Tennessee,0-17 years,15,27,1-9
+2022,Tennessee,18-29 years,37,53,1-9
+2022,Tennessee,30-39 years,85,111,1-9
+2022,Tennessee,40-49 years,226,297,13
+2022,Tennessee,50-64 years,1207,1410,59
+2022,Tennessee,65-74 years,1831,2030,68
+2022,Tennessee,75-84 years,2075,2249,60
+2022,Tennessee,85 years and over,1747,1705,51
+2023,Tennessee,0-17 years,1-9,21,
+2023,Tennessee,18-29 years,1-9,22,
+2023,Tennessee,30-39 years,10,57,0
+2023,Tennessee,40-49 years,27,117,1-9
+2023,Tennessee,50-64 years,169,640,25
+2023,Tennessee,65-74 years,322,1016,21
+2023,Tennessee,75-84 years,524,1159,29
+2023,Tennessee,85 years and over,497,852,25
+2020,Texas,0-17 years,34,57,11
+2020,Texas,18-29 years,195,201,11
+2020,Texas,30-39 years,559,482,21
+2020,Texas,40-49 years,1656,1325,39
+2020,Texas,50-64 years,6837,6221,153
+2020,Texas,65-74 years,8251,7944,127
+2020,Texas,75-84 years,8662,8482,127
+2020,Texas,85 years and over,7348,6955,89
+2021,Texas,0-17 years,80,92,1-9
+2021,Texas,18-29 years,646,435,1-9
+2021,Texas,30-39 years,1874,1322,1-9
+2021,Texas,40-49 years,4101,2885,1-9
+2021,Texas,50-64 years,12593,9895,45
+2021,Texas,65-74 years,12006,10544,46
+2021,Texas,75-84 years,10271,9552,30
+2021,Texas,85 years and over,7216,6663,27
+2022,Texas,0-17 years,69,104,19
+2022,Texas,18-29 years,148,160,14
+2022,Texas,30-39 years,353,382,20
+2022,Texas,40-49 years,761,847,36
+2022,Texas,50-64 years,3312,3914,103
+2022,Texas,65-74 years,4289,5375,142
+2022,Texas,75-84 years,4976,5884,141
+2022,Texas,85 years and over,4706,4904,116
+2023,Texas,0-17 years,13,63,1-9
+2023,Texas,18-29 years,17,81,1-9
+2023,Texas,30-39 years,39,160,1-9
+2023,Texas,40-49 years,73,341,11
+2023,Texas,50-64 years,416,1613,33
+2023,Texas,65-74 years,676,2345,59
+2023,Texas,75-84 years,1057,2921,70
+2023,Texas,85 years and over,1187,2501,46
+2020,Utah,0-17 years,1-9,10,
+2020,Utah,18-29 years,13,15,1-9
+2020,Utah,30-39 years,29,26,1-9
+2020,Utah,40-49 years,70,73,1-9
+2020,Utah,50-64 years,246,279,13
+2020,Utah,65-74 years,373,395,1-9
+2020,Utah,75-84 years,456,466,10
+2020,Utah,85 years and over,469,412,1-9
+2021,Utah,0-17 years,1-9,,
+2021,Utah,18-29 years,47,21,0
+2021,Utah,30-39 years,106,79,0
+2021,Utah,40-49 years,210,145,0
+2021,Utah,50-64 years,615,482,1-9
+2021,Utah,65-74 years,628,545,1-9
+2021,Utah,75-84 years,581,553,1-9
+2021,Utah,85 years and over,480,444,0
+2022,Utah,0-17 years,1-9,15,
+2022,Utah,18-29 years,15,19,1-9
+2022,Utah,30-39 years,31,29,1-9
+2022,Utah,40-49 years,68,74,1-9
+2022,Utah,50-64 years,203,222,14
+2022,Utah,65-74 years,284,331,11
+2022,Utah,75-84 years,386,430,15
+2022,Utah,85 years and over,341,379,22
+2023,Utah,0-17 years,1-9,10,
+2023,Utah,18-29 years,1-9,13,
+2023,Utah,30-39 years,1-9,20,
+2023,Utah,40-49 years,1-9,33,
+2023,Utah,50-64 years,21,108,1-9
+2023,Utah,65-74 years,36,170,1-9
+2023,Utah,75-84 years,62,215,13
+2023,Utah,85 years and over,71,189,1-9
+2020,Vermont,0-17 years,0,1-9,0
+2020,Vermont,18-29 years,0,0,0
+2020,Vermont,30-39 years,1-9,,
+2020,Vermont,40-49 years,1-9,,
+2020,Vermont,50-64 years,1-9,23,
+2020,Vermont,65-74 years,24,52,1-9
+2020,Vermont,75-84 years,47,88,1-9
+2020,Vermont,85 years and over,64,130,1-9
+2021,Vermont,0-17 years,0,0,0
+2021,Vermont,18-29 years,1-9,,0
+2021,Vermont,30-39 years,1-9,,0
+2021,Vermont,40-49 years,1-9,11,0
+2021,Vermont,50-64 years,53,62,0
+2021,Vermont,65-74 years,57,79,1-9
+2021,Vermont,75-84 years,78,106,0
+2021,Vermont,85 years and over,110,127,0
+2022,Vermont,0-17 years,1-9,,0
+2022,Vermont,18-29 years,0,1-9,0
+2022,Vermont,30-39 years,1-9,,0
+2022,Vermont,40-49 years,1-9,,
+2022,Vermont,50-64 years,36,40,1-9
+2022,Vermont,65-74 years,47,87,1-9
+2022,Vermont,75-84 years,124,120,10
+2022,Vermont,85 years and over,171,148,1-9
+2023,Vermont,0-17 years,0,0,0
+2023,Vermont,18-29 years,1-9,,0
+2023,Vermont,30-39 years,1-9,,0
+2023,Vermont,40-49 years,1-9,,0
+2023,Vermont,50-64 years,12,31,1-9
+2023,Vermont,65-74 years,19,46,0
+2023,Vermont,75-84 years,39,92,1-9
+2023,Vermont,85 years and over,57,86,10
+2020,Virginia,0-17 years,1-9,10,
+2020,Virginia,18-29 years,11,28,1-9
+2020,Virginia,30-39 years,51,57,1-9
+2020,Virginia,40-49 years,129,130,1-9
+2020,Virginia,50-64 years,806,865,39
+2020,Virginia,65-74 years,1264,1247,29
+2020,Virginia,75-84 years,1720,1550,31
+2020,Virginia,85 years and over,2173,1597,36
+2021,Virginia,0-17 years,17,10,0
+2021,Virginia,18-29 years,68,48,0
+2021,Virginia,30-39 years,187,139,0
+2021,Virginia,40-49 years,420,298,1-9
+2021,Virginia,50-64 years,1936,1479,1-9
+2021,Virginia,65-74 years,2312,1891,1-9
+2021,Virginia,75-84 years,2399,1984,1-9
+2021,Virginia,85 years and over,2329,1759,11
+2022,Virginia,0-17 years,23,12,11
+2022,Virginia,18-29 years,32,26,1-9
+2022,Virginia,30-39 years,77,65,1-9
+2022,Virginia,40-49 years,186,150,1-9
+2022,Virginia,50-64 years,946,822,36
+2022,Virginia,65-74 years,1286,1328,37
+2022,Virginia,75-84 years,1684,1568,51
+2022,Virginia,85 years and over,1769,1409,44
+2023,Virginia,0-17 years,1-9,10,0
+2023,Virginia,18-29 years,1-9,14,
+2023,Virginia,30-39 years,1-9,23,
+2023,Virginia,40-49 years,16,60,1-9
+2023,Virginia,50-64 years,109,336,14
+2023,Virginia,65-74 years,240,539,1-9
+2023,Virginia,75-84 years,394,789,18
+2023,Virginia,85 years and over,545,772,15
+2020,Washington,0-17 years,1-9,13,
+2020,Washington,18-29 years,13,31,1-9
+2020,Washington,30-39 years,35,59,1-9
+2020,Washington,40-49 years,81,133,1-9
+2020,Washington,50-64 years,463,796,37
+2020,Washington,65-74 years,756,1178,36
+2020,Washington,75-84 years,1023,1335,33
+2020,Washington,85 years and over,1328,1534,28
+2021,Washington,0-17 years,1-9,21,0
+2021,Washington,18-29 years,48,56,0
+2021,Washington,30-39 years,160,145,0
+2021,Washington,40-49 years,362,343,0
+2021,Washington,50-64 years,1363,1430,1-9
+2021,Washington,65-74 years,1536,1760,1-9
+2021,Washington,75-84 years,1391,1604,0
+2021,Washington,85 years and over,1299,1464,0
+2022,Washington,0-17 years,1-9,18,10
+2022,Washington,18-29 years,22,27,1-9
+2022,Washington,30-39 years,54,80,1-9
+2022,Washington,40-49 years,115,175,12
+2022,Washington,50-64 years,539,786,49
+2022,Washington,65-74 years,845,1186,48
+2022,Washington,75-84 years,1187,1520,71
+2022,Washington,85 years and over,1388,1492,66
+2023,Washington,0-17 years,1-9,10,
+2023,Washington,18-29 years,1-9,17,0
+2023,Washington,30-39 years,1-9,34,
+2023,Washington,40-49 years,16,58,1-9
+2023,Washington,50-64 years,72,378,14
+2023,Washington,65-74 years,205,572,20
+2023,Washington,75-84 years,319,781,36
+2023,Washington,85 years and over,435,745,36
+2020,West Virginia,0-17 years,1-9,,
+2020,West Virginia,18-29 years,1-9,,
+2020,West Virginia,30-39 years,1-9,25,
+2020,West Virginia,40-49 years,26,70,1-9
+2020,West Virginia,50-64 years,161,345,15
+2020,West Virginia,65-74 years,369,546,16
+2020,West Virginia,75-84 years,496,678,14
+2020,West Virginia,85 years and over,503,549,11
+2021,West Virginia,0-17 years,0,1-9,0
+2021,West Virginia,18-29 years,17,16,0
+2021,West Virginia,30-39 years,61,41,0
+2021,West Virginia,40-49 years,209,173,0
+2021,West Virginia,50-64 years,848,784,0
+2021,West Virginia,65-74 years,1060,1129,1-9
+2021,West Virginia,75-84 years,1026,1038,0
+2021,West Virginia,85 years and over,717,683,0
+2022,West Virginia,0-17 years,1-9,,
+2022,West Virginia,18-29 years,1-9,11,
+2022,West Virginia,30-39 years,24,28,1-9
+2022,West Virginia,40-49 years,71,107,1-9
+2022,West Virginia,50-64 years,376,540,23
+2022,West Virginia,65-74 years,571,798,25
+2022,West Virginia,75-84 years,684,926,32
+2022,West Virginia,85 years and over,623,718,18
+2023,West Virginia,0-17 years,0,1-9,0
+2023,West Virginia,18-29 years,0,1-9,0
+2023,West Virginia,30-39 years,1-9,15,0
+2023,West Virginia,40-49 years,1-9,49,0
+2023,West Virginia,50-64 years,56,217,1-9
+2023,West Virginia,65-74 years,105,377,1-9
+2023,West Virginia,75-84 years,166,463,1-9
+2023,West Virginia,85 years and over,142,355,1-9
+2020,Wisconsin,0-17 years,1-9,,
+2020,Wisconsin,18-29 years,19,20,1-9
+2020,Wisconsin,30-39 years,42,37,1-9
+2020,Wisconsin,40-49 years,97,81,12
+2020,Wisconsin,50-64 years,638,564,32
+2020,Wisconsin,65-74 years,1171,884,29
+2020,Wisconsin,75-84 years,1802,1307,41
+2020,Wisconsin,85 years and over,2515,1538,42
+2021,Wisconsin,0-17 years,1-9,10,0
+2021,Wisconsin,18-29 years,46,28,0
+2021,Wisconsin,30-39 years,99,62,1-9
+2021,Wisconsin,40-49 years,285,152,1-9
+2021,Wisconsin,50-64 years,1120,750,1-9
+2021,Wisconsin,65-74 years,1365,1080,1-9
+2021,Wisconsin,75-84 years,1558,1302,1-9
+2021,Wisconsin,85 years and over,1600,1291,1-9
+2022,Wisconsin,0-17 years,17,26,1-9
+2022,Wisconsin,18-29 years,16,15,1-9
+2022,Wisconsin,30-39 years,71,54,1-9
+2022,Wisconsin,40-49 years,109,78,1-9
+2022,Wisconsin,50-64 years,592,533,19
+2022,Wisconsin,65-74 years,850,777,35
+2022,Wisconsin,75-84 years,1049,1011,34
+2022,Wisconsin,85 years and over,1208,1075,50
+2023,Wisconsin,0-17 years,0,1-9,
+2023,Wisconsin,18-29 years,1-9,10,
+2023,Wisconsin,30-39 years,1-9,24,
+2023,Wisconsin,40-49 years,1-9,37,
+2023,Wisconsin,50-64 years,69,225,11
+2023,Wisconsin,65-74 years,130,405,22
+2023,Wisconsin,75-84 years,225,535,26
+2023,Wisconsin,85 years and over,347,595,24
+2020,Wyoming,0-17 years,0,1-9,0
+2020,Wyoming,18-29 years,1-9,,
+2020,Wyoming,30-39 years,1-9,,
+2020,Wyoming,40-49 years,1-9,17,0
+2020,Wyoming,50-64 years,57,57,1-9
+2020,Wyoming,65-74 years,97,101,1-9
+2020,Wyoming,75-84 years,139,157,0
+2020,Wyoming,85 years and over,148,132,1-9
+2021,Wyoming,0-17 years,0,1-9,0
+2021,Wyoming,18-29 years,1-9,,0
+2021,Wyoming,30-39 years,17,13,0
+2021,Wyoming,40-49 years,38,37,0
+2021,Wyoming,50-64 years,201,171,0
+2021,Wyoming,65-74 years,252,205,0
+2021,Wyoming,75-84 years,231,192,1-9
+2021,Wyoming,85 years and over,217,183,1-9
+2022,Wyoming,0-17 years,0,1-9,
+2022,Wyoming,18-29 years,0,1-9,
+2022,Wyoming,30-39 years,1-9,,0
+2022,Wyoming,40-49 years,12,12,0
+2022,Wyoming,50-64 years,48,61,0
+2022,Wyoming,65-74 years,70,80,1-9
+2022,Wyoming,75-84 years,110,125,1-9
+2022,Wyoming,85 years and over,109,96,1-9
+2023,Wyoming,0-17 years,0,0,0
+2023,Wyoming,18-29 years,0,1-9,0
+2023,Wyoming,30-39 years,0,0,0
+2023,Wyoming,40-49 years,0,1-9,0
+2023,Wyoming,50-64 years,1-9,23,
+2023,Wyoming,65-74 years,14,40,1-9
+2023,Wyoming,75-84 years,27,54,1-9
+2023,Wyoming,85 years and over,28,70,1-9

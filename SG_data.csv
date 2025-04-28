@@ -1,0 +1,401 @@
+Year,State,Sex,COVID-19 Deaths,Pneumonia Deaths,Influenza Deaths
+2020,Alabama,Male,3562,2831,85
+2020,Alabama,Female,3144,2382,55
+2021,Alabama,Male,5226,3435,19
+2021,Alabama,Female,4493,2921,17
+2022,Alabama,Male,2312,2160,67
+2022,Alabama,Female,1914,1775,65
+2023,Alabama,Male,470,1156,23
+2023,Alabama,Female,399,959,25
+2020,Alaska,Male,147,174,1-9
+2020,Alaska,Female,107,138,1-9
+2021,Alaska,Male,519,410,1-9
+2021,Alaska,Female,320,257,0
+2022,Alaska,Male,171,193,13
+2022,Alaska,Female,159,148,12
+2023,Alaska,Male,44,93,1-9
+2023,Alaska,Female,25,73,1-9
+2020,Arizona,Male,5505,5383,79
+2020,Arizona,Female,3816,3829,69
+2021,Arizona,Male,8307,7059,12
+2021,Arizona,Female,5753,4910,1-9
+2022,Arizona,Male,3430,3650,64
+2022,Arizona,Female,2476,2723,81
+2023,Arizona,Male,564,1569,39
+2023,Arizona,Female,456,1205,26
+2020,Arkansas,Male,2045,2079,52
+2020,Arkansas,Female,1982,1823,50
+2021,Arkansas,Male,2958,2694,1-9
+2021,Arkansas,Female,2378,2094,1-9
+2022,Arkansas,Male,1495,1732,61
+2022,Arkansas,Female,1278,1428,80
+2023,Arkansas,Male,265,870,15
+2023,Arkansas,Female,262,733,14
+2020,California,Male,19687,21239,420
+2020,California,Female,13891,15795,399
+2021,California,Male,28712,27120,30
+2021,California,Female,19618,18769,23
+2022,California,Male,12679,15540,327
+2022,California,Female,9747,12221,344
+2023,California,Male,2666,7967,112
+2023,California,Female,2248,6526,98
+2020,Colorado,Male,2813,2636,70
+2020,Colorado,Female,2260,1957,69
+2021,Colorado,Male,3623,3199,1-9
+2021,Colorado,Female,2584,2201,1-9
+2022,Colorado,Male,1903,2061,69
+2022,Colorado,Female,1510,1522,111
+2023,Colorado,Male,384,905,31
+2023,Colorado,Female,301,734,31
+2020,Connecticut,Male,3059,1661,46
+2020,Connecticut,Female,3239,1520,46
+2021,Connecticut,Male,1685,1517,1-9
+2021,Connecticut,Female,1468,1281,1-9
+2022,Connecticut,Male,1402,1584,36
+2022,Connecticut,Female,1177,1288,50
+2023,Connecticut,Male,264,866,10
+2023,Connecticut,Female,277,744,24
+2020,Delaware,Male,543,465,10
+2020,Delaware,Female,553,450,15
+2021,Delaware,Male,671,616,1-9
+2021,Delaware,Female,595,535,0
+2022,Delaware,Male,488,508,16
+2022,Delaware,Female,379,450,14
+2023,Delaware,Male,106,232,1-9
+2023,Delaware,Female,110,192,1-9
+2020,Florida,Male,12395,14531,250
+2020,Florida,Female,9432,10906,236
+2021,Florida,Male,21942,22114,44
+2021,Florida,Female,16931,16879,43
+2022,Florida,Male,9377,12132,210
+2022,Florida,Female,7521,9459,186
+2023,Florida,Male,2306,6106,152
+2023,Florida,Female,1990,5118,149
+2020,Georgia,Male,5572,5266,98
+2020,Georgia,Female,4882,4353,102
+2021,Georgia,Male,9368,7572,22
+2021,Georgia,Female,7942,6344,25
+2022,Georgia,Male,3945,4018,96
+2022,Georgia,Female,3284,3290,106
+2023,Georgia,Male,752,1743,32
+2023,Georgia,Female,754,1569,45
+2020,Hawaii,Male,229,489,16
+2020,Hawaii,Female,136,342,10
+2021,Hawaii,Male,432,623,1-9
+2021,Hawaii,Female,312,473,0
+2022,Hawaii,Male,384,607,1-9
+2022,Hawaii,Female,255,438,12
+2023,Hawaii,Male,104,366,11
+2023,Hawaii,Female,91,297,1-9
+2020,Idaho,Male,891,723,21
+2020,Idaho,Female,650,510,14
+2021,Idaho,Male,1641,1240,1-9
+2021,Idaho,Female,1144,927,0
+2022,Idaho,Male,627,583,39
+2022,Idaho,Female,457,477,33
+2023,Idaho,Male,107,259,13
+2023,Idaho,Female,93,244,20
+2020,Illinois,Male,9024,7897,96
+2020,Illinois,Female,7697,6516,127
+2021,Illinois,Male,6615,6808,1-9
+2021,Illinois,Female,5172,5398,1-9
+2022,Illinois,Male,4785,5201,124
+2022,Illinois,Female,3935,4458,145
+2023,Illinois,Male,767,2218,36
+2023,Illinois,Female,729,1938,54
+2020,Indiana,Male,4989,4792,79
+2020,Indiana,Female,4786,4113,99
+2021,Indiana,Male,5484,5362,12
+2021,Indiana,Female,4570,4153,11
+2022,Indiana,Male,3250,3579,102
+2022,Indiana,Female,2782,3106,129
+2023,Indiana,Male,511,1598,32
+2023,Indiana,Female,513,1480,53
+2020,Iowa,Male,2480,1858,38
+2020,Iowa,Female,2289,1524,58
+2021,Iowa,Male,1957,1685,1-9
+2021,Iowa,Female,1569,1353,1-9
+2022,Iowa,Male,1190,1223,57
+2022,Iowa,Female,1052,1110,84
+2023,Iowa,Male,264,630,35
+2023,Iowa,Female,225,537,27
+2020,Kansas,Male,1890,1635,57
+2020,Kansas,Female,1620,1304,65
+2021,Kansas,Male,2128,1733,1-9
+2021,Kansas,Female,1678,1426,1-9
+2022,Kansas,Male,1318,1266,54
+2022,Kansas,Female,1090,1033,80
+2023,Kansas,Male,217,544,18
+2023,Kansas,Female,211,571,21
+2020,Kentucky,Male,2256,3187,69
+2020,Kentucky,Female,2363,2778,76
+2021,Kentucky,Male,4682,4582,10
+2021,Kentucky,Female,4013,3944,1-9
+2022,Kentucky,Male,2919,3314,128
+2022,Kentucky,Female,2837,2904,151
+2023,Kentucky,Male,653,1469,34
+2023,Kentucky,Female,551,1411,35
+2020,Louisiana,Male,3783,3098,41
+2020,Louisiana,Female,3283,2649,55
+2021,Louisiana,Male,3822,3124,14
+2021,Louisiana,Female,3097,2553,1-9
+2022,Louisiana,Male,1657,1627,42
+2022,Louisiana,Female,1456,1403,46
+2023,Louisiana,Male,325,692,12
+2023,Louisiana,Female,299,603,13
+2020,Maine,Male,226,573,17
+2020,Maine,Female,239,450,20
+2021,Maine,Male,759,734,1-9
+2021,Maine,Female,674,540,1-9
+2022,Maine,Male,560,705,26
+2022,Maine,Female,488,471,32
+2023,Maine,Male,143,422,18
+2023,Maine,Female,146,336,21
+2020,Maryland,Male,3470,3114,75
+2020,Maryland,Female,3259,2742,76
+2021,Maryland,Male,3256,3100,1-9
+2021,Maryland,Female,2845,2600,1-9
+2022,Maryland,Male,2292,2400,52
+2022,Maryland,Female,2023,2122,66
+2023,Maryland,Male,516,1262,20
+2023,Maryland,Female,482,1062,27
+2020,Massachusetts,Male,4914,4004,119
+2020,Massachusetts,Female,5307,3586,95
+2021,Massachusetts,Male,3164,3292,1-9
+2021,Massachusetts,Female,2415,2505,15
+2022,Massachusetts,Male,2257,2613,87
+2022,Massachusetts,Female,2078,2172,122
+2023,Massachusetts,Male,571,1428,50
+2023,Massachusetts,Female,580,1240,63
+2020,Michigan,Male,6646,6411,141
+2020,Michigan,Female,5696,5180,143
+2021,Michigan,Male,8355,7402,10
+2021,Michigan,Female,6590,5726,16
+2022,Michigan,Male,4266,4449,103
+2022,Michigan,Female,3846,3742,110
+2023,Michigan,Male,817,2128,73
+2023,Michigan,Female,886,1833,77
+2020,Minnesota,Male,3018,2456,80
+2020,Minnesota,Female,2816,2102,74
+2021,Minnesota,Male,2973,2620,1-9
+2021,Minnesota,Female,2208,1895,1-9
+2022,Minnesota,Male,1800,1874,72
+2022,Minnesota,Female,1560,1569,87
+2023,Minnesota,Male,413,1091,24
+2023,Minnesota,Female,510,919,32
+2020,Mississippi,Male,2660,2731,41
+2020,Mississippi,Female,2502,2346,30
+2021,Mississippi,Male,3103,2917,13
+2021,Mississippi,Female,2804,2525,20
+2022,Mississippi,Male,1612,1912,67
+2022,Mississippi,Female,1578,1633,59
+2023,Mississippi,Male,349,824,16
+2023,Mississippi,Female,347,778,21
+2020,Missouri,Male,4189,3728,108
+2020,Missouri,Female,3870,3084,106
+2021,Missouri,Male,4914,4296,1-9
+2021,Missouri,Female,4032,3616,14
+2022,Missouri,Male,2889,3084,120
+2022,Missouri,Female,2544,2605,140
+2023,Missouri,Male,483,1444,40
+2023,Missouri,Female,442,1298,42
+2020,Montana,Male,710,645,19
+2020,Montana,Female,559,435,18
+2021,Montana,Male,1053,886,0
+2021,Montana,Female,763,610,1-9
+2022,Montana,Male,410,465,17
+2022,Montana,Female,319,354,27
+2023,Montana,Male,75,188,14
+2023,Montana,Female,72,210,1-9
+2020,Nebraska,Male,1277,1092,21
+2020,Nebraska,Female,976,865,31
+2021,Nebraska,Male,1148,1132,1-9
+2021,Nebraska,Female,791,845,1-9
+2022,Nebraska,Male,697,773,34
+2022,Nebraska,Female,599,633,44
+2023,Nebraska,Male,182,437,14
+2023,Nebraska,Female,145,371,12
+2020,Nevada,Male,2220,2660,31
+2020,Nevada,Female,1307,1694,25
+2021,Nevada,Male,3469,3581,1-9
+2021,Nevada,Female,2176,2355,1-9
+2022,Nevada,Male,1589,2131,51
+2022,Nevada,Female,1124,1562,45
+2023,Nevada,Male,202,849,24
+2023,Nevada,Female,172,594,15
+2020,New Hampshire,Male,417,446,15
+2020,New Hampshire,Female,411,376,21
+2021,New Hampshire,Male,654,583,1-9
+2021,New Hampshire,Female,550,468,1-9
+2022,New Hampshire,Male,445,481,14
+2022,New Hampshire,Female,376,413,17
+2023,New Hampshire,Male,135,279,18
+2023,New Hampshire,Female,124,240,11
+2020,New Jersey,Male,9881,7353,92
+2020,New Jersey,Female,8283,5943,63
+2021,New Jersey,Male,5340,4787,1-9
+2021,New Jersey,Female,4265,3851,1-9
+2022,New Jersey,Male,3490,3392,66
+2022,New Jersey,Female,3081,2867,65
+2023,New Jersey,Male,665,1480,29
+2023,New Jersey,Female,686,1358,41
+2020,New Mexico,Male,1599,1437,31
+2020,New Mexico,Female,1287,1095,29
+2021,New Mexico,Male,2142,1886,1-9
+2021,New Mexico,Female,1562,1304,1-9
+2022,New Mexico,Male,1153,1205,44
+2022,New Mexico,Female,855,905,43
+2023,New Mexico,Male,183,516,18
+2023,New Mexico,Female,182,435,14
+2020,New York,Male,8474,8120,140
+2020,New York,Female,7721,6898,138
+2021,New York,Male,7873,7397,11
+2021,New York,Female,6928,6080,16
+2022,New York,Male,4746,5533,144
+2022,New York,Female,4345,4768,193
+2023,New York,Male,1119,2973,56
+2023,New York,Female,1067,2778,91
+2020,North Carolina,Male,4494,5144,139
+2020,North Carolina,Female,4295,4593,150
+2021,North Carolina,Male,8238,7915,12
+2021,North Carolina,Female,6997,6460,12
+2022,North Carolina,Male,4388,5113,148
+2022,North Carolina,Female,3997,4528,166
+2023,North Carolina,Male,954,2543,37
+2023,North Carolina,Female,1020,2297,64
+2020,North Dakota,Male,837,748,14
+2020,North Dakota,Female,676,527,18
+2021,North Dakota,Male,575,609,1-9
+2021,North Dakota,Female,364,445,1-9
+2022,North Dakota,Male,301,421,15
+2022,North Dakota,Female,237,291,17
+2023,North Dakota,Male,53,208,1-9
+2023,North Dakota,Female,58,178,16
+2020,Ohio,Male,7797,7040,154
+2020,Ohio,Female,7300,5737,163
+2021,Ohio,Male,11136,9405,25
+2021,Ohio,Female,9400,7590,1-9
+2022,Ohio,Male,6303,5899,166
+2022,Ohio,Female,5669,5001,208
+2023,Ohio,Male,1049,2323,51
+2023,Ohio,Female,1075,2132,85
+2020,Oklahoma,Male,2841,2834,66
+2020,Oklahoma,Female,2407,2290,79
+2021,Oklahoma,Male,4358,3624,20
+2021,Oklahoma,Female,3492,2915,23
+2022,Oklahoma,Male,2488,2580,118
+2022,Oklahoma,Female,2074,2172,101
+2023,Oklahoma,Male,408,1174,43
+2023,Oklahoma,Female,452,1032,42
+2020,Oregon,Male,852,1139,54
+2020,Oregon,Female,760,938,38
+2021,Oregon,Male,2349,1856,1-9
+2021,Oregon,Female,1841,1380,1-9
+2022,Oregon,Male,1550,1473,82
+2022,Oregon,Female,1251,1133,99
+2023,Oregon,Male,332,774,32
+2023,Oregon,Female,297,635,31
+2020,Pennsylvania,Male,9120,7336,158
+2020,Pennsylvania,Female,9287,6308,175
+2021,Pennsylvania,Male,11221,9082,19
+2021,Pennsylvania,Female,9325,7286,29
+2022,Pennsylvania,Male,6174,5799,178
+2022,Pennsylvania,Female,5468,4905,209
+2023,Pennsylvania,Male,1223,2721,87
+2023,Pennsylvania,Female,1231,2461,92
+2020,Rhode Island,Male,930,676,11
+2020,Rhode Island,Female,988,622,20
+2021,Rhode Island,Male,636,566,1-9
+2021,Rhode Island,Female,581,470,1-9
+2022,Rhode Island,Male,401,342,10
+2022,Rhode Island,Female,368,340,15
+2023,Rhode Island,Male,103,170,1-9
+2023,Rhode Island,Female,76,170,1-9
+2020,South Carolina,Male,2979,2983,74
+2020,South Carolina,Female,2726,2515,77
+2021,South Carolina,Male,5260,3647,1-9
+2021,South Carolina,Female,4237,2877,1-9
+2022,South Carolina,Male,2479,2485,65
+2022,South Carolina,Female,2093,2091,69
+2023,South Carolina,Male,542,1200,28
+2023,South Carolina,Female,526,1033,33
+2020,South Dakota,Male,917,728,19
+2020,South Dakota,Female,798,519,14
+2021,South Dakota,Male,556,599,1-9
+2021,South Dakota,Female,431,487,1-9
+2022,South Dakota,Male,345,436,15
+2022,South Dakota,Female,289,358,33
+2023,South Dakota,Male,76,222,1-9
+2023,South Dakota,Female,60,190,14
+2020,Tennessee,Male,4358,5128,123
+2020,Tennessee,Female,3569,4153,116
+2021,Tennessee,Male,7473,6818,41
+2021,Tennessee,Female,6232,5531,35
+2022,Tennessee,Male,3784,4142,123
+2022,Tennessee,Female,3439,3740,144
+2023,Tennessee,Male,767,2081,50
+2023,Tennessee,Female,786,1803,57
+2020,Texas,Male,19397,17987,290
+2020,Texas,Female,14145,13680,288
+2021,Texas,Male,28306,23806,87
+2021,Texas,Female,20481,17582,77
+2022,Texas,Male,10468,12139,278
+2022,Texas,Female,8146,9431,313
+2023,Texas,Male,1901,5465,114
+2023,Texas,Female,1577,4560,123
+2020,Utah,Male,990,967,36
+2020,Utah,Female,667,709,18
+2021,Utah,Male,1657,1392,1-9
+2021,Utah,Female,1014,885,1-9
+2022,Utah,Male,784,859,30
+2022,Utah,Female,549,640,43
+2023,Utah,Male,113,393,25
+2023,Utah,Female,93,365,17
+2020,Vermont,Male,70,164,10
+2020,Vermont,Female,76,135,1-9
+2021,Vermont,Male,165,224,1-9
+2021,Vermont,Female,147,168,0
+2022,Vermont,Male,220,234,1-9
+2022,Vermont,Female,167,172,14
+2023,Vermont,Male,67,142,1-9
+2023,Vermont,Female,64,126,10
+2020,Virginia,Male,3174,2969,84
+2020,Virginia,Female,2982,2515,69
+2021,Virginia,Male,5135,4134,14
+2021,Virginia,Female,4533,3474,10
+2022,Virginia,Male,3241,2973,78
+2022,Virginia,Female,2762,2407,115
+2023,Virginia,Male,640,1312,27
+2023,Virginia,Female,681,1231,33
+2020,Washington,Male,2000,2814,93
+2020,Washington,Female,1703,2265,67
+2021,Washington,Male,3637,4051,1-9
+2021,Washington,Female,2528,2772,1-9
+2022,Washington,Male,2264,2933,143
+2022,Washington,Female,1892,2351,124
+2023,Washington,Male,544,1401,51
+2023,Washington,Female,510,1194,60
+2020,West Virginia,Male,788,1192,37
+2020,West Virginia,Female,776,1035,32
+2021,West Virginia,Male,2200,2190,1-9
+2021,West Virginia,Female,1738,1675,0
+2022,West Virginia,Male,1181,1661,50
+2022,West Virginia,Female,1179,1474,62
+2023,West Virginia,Male,234,795,1-9
+2023,West Virginia,Female,243,687,18
+2020,Wisconsin,Male,3353,2491,91
+2020,Wisconsin,Female,2933,1947,78
+2021,Wisconsin,Male,3405,2638,1-9
+2021,Wisconsin,Female,2671,2037,1-9
+2022,Wisconsin,Male,2142,1988,60
+2022,Wisconsin,Female,1770,1581,93
+2023,Wisconsin,Male,422,976,34
+2023,Wisconsin,Female,368,862,55
+2020,Wyoming,Male,234,249,1-9
+2020,Wyoming,Female,227,226,1-9
+2021,Wyoming,Male,545,443,1-9
+2021,Wyoming,Female,418,365,1-9
+2022,Wyoming,Male,185,212,12
+2022,Wyoming,Female,168,168,1-9
+2023,Wyoming,Male,42,112,1-9
+2023,Wyoming,Female,36,84,1-9
