@@ -1,9 +1,8 @@
 import csv
-
 from dataclasses import dataclass
 from histogram import plot_histogram
 
-
+# Epidemic data structure
 @dataclass
 class EpidemicData:
     name: str
@@ -14,104 +13,11 @@ class EpidemicData:
     sexes: list[str]
 
 
-def create_csv_file(file_type: str, file_name: str = "Covid.csv") -> None:
-    """
-        Description:
-            ...
-
-        Args:
-            file_type: ...
-            file_name: ...
-
-        Returns:
-            ...
-    """
-
-    d: list[dict] = []
-
-    # Reading from CSV files from GeeksForGeeks (https://www.geeksforgeeks.org/reading-csv-files-in-python/)
-    with open(file_name, mode="r") as file:
-        csv_file = csv.DictReader(file)
-        for lines in csv_file:
-            if lines["Group"] == "By Year" and (
-                    lines["State"] != "United States" and lines["State"] != "District of Columbia" and
-                    lines["State"] != "New York City" and lines["State"] != "Puerto Rico"):
-                if file_type == 'N' and lines["Sex"] == "All Sexes" and lines["Age Group"] == "All Ages":
-                    if not lines["COVID-19 Deaths"]:
-                        lines["COVID-19 Deaths"] = "1-9"
-                    elif not lines["Pneumonia Deaths"]:
-                        lines["Pneumonia Deaths"] = "1-9"
-                    elif not lines["Influenza Deaths"]:
-                        lines["Influenza Deaths"] = "1-9"
-
-                    d.append(
-                        {"Year": lines["Year"], "State": lines["State"], "COVID-19 Deaths": lines["COVID-19 Deaths"],
-                         "Pneumonia Deaths": lines["Pneumonia Deaths"], "Influenza Deaths": lines["Influenza Deaths"]}
-                    )
-
-                elif file_type == "SG" and lines["Sex"] != "All Sexes" and lines["Age Group"] == "All Ages":
-                    if not lines["COVID-19 Deaths"]:
-                        lines["COVID-19 Deaths"] = "1-9"
-                    elif not lines["Pneumonia Deaths"]:
-                        lines["Pneumonia Deaths"] = "1-9"
-                    elif not lines["Influenza Deaths"]:
-                        lines["Influenza Deaths"] = "1-9"
-
-                    d.append(
-                        {"Year": lines["Year"], "State": lines["State"], "Sex": lines["Sex"],
-                         "COVID-19 Deaths": lines["COVID-19 Deaths"],
-                         "Pneumonia Deaths": lines["Pneumonia Deaths"], "Influenza Deaths": lines["Influenza Deaths"]}
-                    )
-
-                elif file_type == "SA" and lines["Sex"] == "All Sexes" and (
-                        lines["Age Group"] == "0-17 years" or lines["Age Group"] == "18-29 years" or lines[
-                    "Age Group"] == "30-39 years" or
-                        lines["Age Group"] == "40-49 years" or lines["Age Group"] == "50-64 years" or lines[
-                            "Age Group"] == "65-74 years" or
-                        lines["Age Group"] == "75-84 years" or lines["Age Group"] == "85 years and over"):
-
-                    if not lines["COVID-19 Deaths"]:
-                        lines["COVID-19 Deaths"] = "1-9"
-                    elif not lines["Pneumonia Deaths"]:
-                        lines["Pneumonia Deaths"] = "1-9"
-                    elif not lines["Influenza Deaths"]:
-                        lines["Influenza Deaths"] = "1-9"
-
-                    d.append(
-                        {"Year": lines["Year"], "State": lines["State"], "Age Group": lines["Age Group"],
-                         "COVID-19 Deaths": lines["COVID-19 Deaths"], "Pneumonia Deaths": lines["Pneumonia Deaths"],
-                         "Influenza Deaths": lines["Influenza Deaths"]}
-                    )
-
-    # Writing to CSV files from GeeksForGeeks (https://www.geeksforgeeks.org/reading-and-writing-csv-files-in-python/)
-    new_file: str = ""
-    f = []
-    if file_type == 'N':
-        new_file = "N_data.csv"
-        f = ["Year", "State", "COVID-19 Deaths", "Pneumonia Deaths", "Influenza Deaths"]
-    elif file_type == "SG":
-        new_file = "SG_data.csv"
-        f = ["Year", "State", "Sex", "COVID-19 Deaths", "Pneumonia Deaths", "Influenza Deaths"]
-    elif file_type == "SA":
-        new_file = "SA_data.csv"
-        f = ["Year", "State", "Age Group", "COVID-19 Deaths", "Pneumonia Deaths", "Influenza Deaths"]
-
-    with open(new_file, mode="w", newline="") as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=f)
-        writer.writeheader()
-        writer.writerows(d)
-
-
 def query_data() -> None:
     """
         Description:
-            ...
-
-        Args:
-            ...
-
-        Returns:
-            ...
+            Queries the user for data, and then filters the dataset based on this data.
+            After filtering, it then loads the data into the Epidemic Data Structure and visualizes it using a histogram.
     """
 
     # Handling user input -> https://www.geeksforgeeks.org/taking-multiple-inputs-from-user-in-python/
@@ -165,17 +71,21 @@ def query_data() -> None:
 def load_data_into_structure(file_type: str, time_range: list[str], epidemic: str, state_list: list[str], age_groups: list[str] = "All") -> None:
     """
         Description:
-            ...
+            Using the filters provided by the user, it constructs an Epidemic data structure consisting of:
+                - A time range
+                - A specific epidemic (name)
+                - State(s) being studied
+                - Age groups being studied
 
         Args:
-            file_type: ...
-            time_range: ...
-            epidemic: ...
-            state_list: ...
-            age_groups: ...
-
-        Returns:
-            ...
+            file_type: Either "N", "SG", or "SA".
+                An "N" filetype loads the Epidemic data structure based on the list of states the user wants to study.
+                An "SG" filetype loads the Epidemic data structure based on the impact gender had on the death count in a certain state.
+                An "SA" filetype loads the Epidemic data structure based on the impact differing age groups had on the death count in a certain state.
+            time_range: The range of years the user wants to study
+            epidemic: The name of the epidemic the user wants to study
+            state_list: The list of states the user wants to study
+            age_groups: The various age groups the user wants to study
     """
 
     if file_type == 'N':
@@ -239,15 +149,13 @@ def load_data_into_structure(file_type: str, time_range: list[str], epidemic: st
 def calculate_epidemic_deaths(epidemic_data: EpidemicData, lines: dict[str, str], death_index: int) -> None:
     """
         Description:
-            ...
+            Calculates the number of casualties from a given epidemic and stores the number in an appropriate list position for data visualization.
 
         Args:
-            epidemic_data: ...
-            lines: ...
-            death_index: ...
-
-        Returns:
-            ...
+            epidemic_data: The loaded data structure we are calculating the deaths for
+            lines: The current line being parsed in the CSV file
+            death_index: The index in the list of deaths that is currently being calculated
+                e.g. ["Male", "Female"] --> [Male_Death_Count, Female_Death_Count]
     """
 
     if lines[f"{epidemic_data.name} Deaths"] == "1-9":
@@ -255,21 +163,6 @@ def calculate_epidemic_deaths(epidemic_data: EpidemicData, lines: dict[str, str]
     else:
         try:
             epidemic_data.deaths[death_index] += int(lines[f"{epidemic_data.name} Deaths"])
-        except ValueError:
+        except ValueError: # Special case when there isn't a data value (i.e. ==> '')
             epidemic_data.deaths[death_index] += 0
 
-
-def clean_data() -> None:
-    # Cleaning data for easier parsing
-    create_csv_file('N')
-    create_csv_file("SG")
-    create_csv_file("SA")
-
-
-def main() -> None:
-    while True:
-        query_data()
-
-
-if __name__ == "__main__":
-    main()
