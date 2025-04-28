@@ -34,6 +34,9 @@ def query_data() -> None:
     epidemic: str = input(
         "Enter the epidemic you wish to study, your options are: COVID-19, Influenza, or Pneumonia: ")
 
+    if epidemic.lower() not in valid_epidemics:
+        print("Invalid epidemic. Please choose from COVID-19, Influenza, or Pneumonia.")
+        return
 
     graph_decision: str = input(
         "Enter 'N' if you wish to study a national graph and 'S' if you wish to study a state graph: ")
