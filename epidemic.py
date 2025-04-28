@@ -28,18 +28,18 @@ def query_data() -> None:
         while True:
             time_range: list[str] = input(
                 "Enter the range of years you wish to study in the following format 'YYYY-YYYY': ").split("-")
-
-            if time_range[0].lower() == "stop":
-                print("Program stopped by user.")
-                return
-            elif time_range[1].lower() == "stop":
-                print("Program stopped by user.")
-                return
-
-            #Verify that the time range is between [2020, 2023]
-            if len(time_range) != 2 or not all(year.isdigit() for year in time_range) or not (2020 <= int(time_range[0]) <= 2023) or not (2020 <= int(time_range[1]) <= 2023):
-                print("Invalid time range. Please enter years between 2020 and 2023.")
-                continue
+            try:
+                if time_range[0].lower() == "stop":
+                    print("Program stopped by user.")
+                    return
+                elif time_range[1].lower() == "stop":
+                    print("Program stopped by user.")
+                    return
+            finally:
+                if len(time_range) != 2 or not all(year.isdigit() for year in time_range) or not (2020 <= int(time_range[0]) <= 2023) or not (2020 <= int(time_range[1]) <= 2023):
+                    # Verify that the time range is between [2020, 2023]
+                    print("Invalid time range. Please enter years between 2020 and 2023.")
+                    continue
 
             break
 
@@ -94,10 +94,18 @@ def query_data() -> None:
                 state_list: list[str] = input(
                     "Enter two or more states you wish to study in the following comma-separated format 'California, Florida': ").split(", ")
 
+                invalid_state: bool = False
                 for state in state_list:
+                    if state.lower() == "stop":
+                        print("Program stopped by user.")
+                        return
+
                     if state.strip().title() not in valid_states:
                         print(f"Invalid state entered: {state}")
-                        continue
+                        invalid_state = True
+                        break
+                if invalid_state:
+                    continue
 
                 break
 
